@@ -1,0 +1,780 @@
+{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "no", 
+                            0.06, 
+                            0.64
+                        ]
+                    ], 
+                    "transcript": "no "
+                }
+            ], 
+            "final": false
+        }
+    ], 
+    "warnings": [
+        "Unknown arguments: continuous."
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "no", 
+                            0.06, 
+                            0.65
+                        ]
+                    ], 
+                    "transcript": "no "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "no", 
+                            0.06, 
+                            0.65
+                        ], 
+                        [
+                            "****", 
+                            0.78, 
+                            1.29
+                        ]
+                    ], 
+                    "transcript": "no **** "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "no", 
+                            0.06, 
+                            0.65
+                        ], 
+                        [
+                            "****", 
+                            0.78, 
+                            1.29
+                        ]
+                    ], 
+                    "transcript": "no **** "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "no", 
+                            0.06, 
+                            0.65
+                        ], 
+                        [
+                            "****", 
+                            0.78, 
+                            1.24
+                        ], 
+                        [
+                            "you", 
+                            1.24, 
+                            1.55
+                        ]
+                    ], 
+                    "transcript": "no **** you "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "no", 
+                            0.06, 
+                            0.65
+                        ], 
+                        [
+                            "****", 
+                            0.78, 
+                            1.24
+                        ], 
+                        [
+                            "you", 
+                            1.24, 
+                            1.79
+                        ]
+                    ], 
+                    "transcript": "no **** you "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "no", 
+                            0.06, 
+                            0.65
+                        ], 
+                        [
+                            "****", 
+                            0.78, 
+                            1.24
+                        ], 
+                        [
+                            "you", 
+                            1.24, 
+                            1.95
+                        ]
+                    ], 
+                    "transcript": "no **** you "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "no", 
+                            0.06, 
+                            0.65
+                        ], 
+                        [
+                            "****", 
+                            0.78, 
+                            1.24
+                        ], 
+                        [
+                            "you", 
+                            1.24, 
+                            1.95
+                        ]
+                    ], 
+                    "transcript": "no **** you "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "no", 
+                            0.06, 
+                            0.65
+                        ], 
+                        [
+                            "****", 
+                            0.78, 
+                            1.24
+                        ], 
+                        [
+                            "you", 
+                            1.24, 
+                            1.95
+                        ]
+                    ], 
+                    "transcript": "no **** you "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "no", 
+                            0.06, 
+                            0.65
+                        ], 
+                        [
+                            "****", 
+                            0.78, 
+                            1.24
+                        ], 
+                        [
+                            "you", 
+                            1.24, 
+                            1.95
+                        ], 
+                        [
+                            "don't", 
+                            2.22, 
+                            2.49
+                        ]
+                    ], 
+                    "transcript": "no **** you don't "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "no", 
+                            0.06, 
+                            0.65
+                        ], 
+                        [
+                            "****", 
+                            0.78, 
+                            1.24
+                        ], 
+                        [
+                            "you", 
+                            1.24, 
+                            1.95
+                        ], 
+                        [
+                            "don't", 
+                            2.22, 
+                            2.57
+                        ]
+                    ], 
+                    "transcript": "no **** you don't "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "no", 
+                            0.06, 
+                            0.65
+                        ], 
+                        [
+                            "****", 
+                            0.78, 
+                            1.24
+                        ], 
+                        [
+                            "you", 
+                            1.24, 
+                            1.95
+                        ], 
+                        [
+                            "all", 
+                            2.27, 
+                            2.57
+                        ], 
+                        [
+                            "right", 
+                            2.57, 
+                            2.81
+                        ]
+                    ], 
+                    "transcript": "no **** you all right "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "no", 
+                            0.06, 
+                            0.65
+                        ], 
+                        [
+                            "****", 
+                            0.78, 
+                            1.24
+                        ], 
+                        [
+                            "you", 
+                            1.24, 
+                            1.38
+                        ], 
+                        [
+                            "you", 
+                            1.38, 
+                            1.95
+                        ], 
+                        [
+                            "already", 
+                            2.27, 
+                            2.75
+                        ]
+                    ], 
+                    "transcript": "no **** you you already "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "no", 
+                            0.06, 
+                            0.65
+                        ], 
+                        [
+                            "****", 
+                            0.78, 
+                            1.24
+                        ], 
+                        [
+                            "you", 
+                            1.24, 
+                            1.38
+                        ], 
+                        [
+                            "you", 
+                            1.38, 
+                            1.95
+                        ], 
+                        [
+                            "already", 
+                            2.27, 
+                            2.75
+                        ]
+                    ], 
+                    "transcript": "no **** you you already "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "no", 
+                            0.06, 
+                            0.65
+                        ], 
+                        [
+                            "****", 
+                            0.78, 
+                            1.24
+                        ], 
+                        [
+                            "you", 
+                            1.24, 
+                            1.38
+                        ], 
+                        [
+                            "you", 
+                            1.38, 
+                            1.95
+                        ], 
+                        [
+                            "already", 
+                            2.27, 
+                            2.75
+                        ]
+                    ], 
+                    "transcript": "no **** you you already "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "no", 
+                            0.06, 
+                            0.65
+                        ], 
+                        [
+                            "****", 
+                            0.78, 
+                            1.24
+                        ], 
+                        [
+                            "you", 
+                            1.24, 
+                            1.38
+                        ], 
+                        [
+                            "you", 
+                            1.38, 
+                            1.95
+                        ], 
+                        [
+                            "already", 
+                            2.27, 
+                            2.75
+                        ]
+                    ], 
+                    "transcript": "no **** you you already "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "no", 
+                            0.06, 
+                            0.65
+                        ], 
+                        [
+                            "****", 
+                            0.78, 
+                            1.24
+                        ], 
+                        [
+                            "you", 
+                            1.24, 
+                            1.38
+                        ], 
+                        [
+                            "you", 
+                            1.38, 
+                            1.95
+                        ], 
+                        [
+                            "already", 
+                            2.27, 
+                            2.75
+                        ]
+                    ], 
+                    "transcript": "no **** you you already "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.692, 
+                    "timestamps": [
+                        [
+                            "no", 
+                            0.06, 
+                            0.65
+                        ], 
+                        [
+                            "****", 
+                            0.78, 
+                            1.24
+                        ], 
+                        [
+                            "you", 
+                            1.24, 
+                            1.38
+                        ], 
+                        [
+                            "you", 
+                            1.38, 
+                            1.95
+                        ], 
+                        [
+                            "already", 
+                            2.27, 
+                            2.75
+                        ]
+                    ], 
+                    "transcript": "no **** you you already ", 
+                    "word_confidence": [
+                        [
+                            "no", 
+                            0.765
+                        ], 
+                        [
+                            "****", 
+                            0.979
+                        ], 
+                        [
+                            "you", 
+                            0.987
+                        ], 
+                        [
+                            "you", 
+                            0.826
+                        ], 
+                        [
+                            "already", 
+                            0.084
+                        ]
+                    ]
+                }, 
+                {
+                    "transcript": "**** you you already "
+                }, 
+                {
+                    "transcript": "no **** you all right "
+                }
+            ], 
+            "final": true
+        }
+    ]
+}{
+    "result_index": 1, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "but", 
+                            3.86, 
+                            4.12
+                        ]
+                    ], 
+                    "transcript": "but "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 1, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "I", 
+                            3.88, 
+                            4.05
+                        ], 
+                        [
+                            "thought", 
+                            4.05, 
+                            4.34
+                        ], 
+                        [
+                            "that", 
+                            4.34, 
+                            4.47
+                        ]
+                    ], 
+                    "transcript": "I thought that "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 1, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "I", 
+                            3.88, 
+                            4.05
+                        ], 
+                        [
+                            "thought", 
+                            4.05, 
+                            4.34
+                        ], 
+                        [
+                            "that", 
+                            4.34, 
+                            4.54
+                        ], 
+                        [
+                            "Ross", 
+                            4.54, 
+                            4.73
+                        ]
+                    ], 
+                    "transcript": "I thought that Ross "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 1, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "I", 
+                            3.88, 
+                            4.05
+                        ], 
+                        [
+                            "thought", 
+                            4.05, 
+                            4.34
+                        ], 
+                        [
+                            "that", 
+                            4.34, 
+                            4.54
+                        ], 
+                        [
+                            "wrong", 
+                            4.54, 
+                            4.97
+                        ]
+                    ], 
+                    "transcript": "I thought that wrong "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 1, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.622, 
+                    "timestamps": [
+                        [
+                            "I", 
+                            3.88, 
+                            4.09
+                        ], 
+                        [
+                            "got", 
+                            4.15, 
+                            4.34
+                        ], 
+                        [
+                            "that", 
+                            4.34, 
+                            4.54
+                        ], 
+                        [
+                            "wrong", 
+                            4.54, 
+                            5.04
+                        ]
+                    ], 
+                    "transcript": "I got that wrong ", 
+                    "word_confidence": [
+                        [
+                            "I", 
+                            0.331
+                        ], 
+                        [
+                            "got", 
+                            0.256
+                        ], 
+                        [
+                            "that", 
+                            0.728
+                        ], 
+                        [
+                            "wrong", 
+                            0.84
+                        ]
+                    ]
+                }, 
+                {
+                    "transcript": "I thought that wrong "
+                }, 
+                {
+                    "transcript": "but I got that wrong "
+                }
+            ], 
+            "final": true
+        }
+    ]
+}

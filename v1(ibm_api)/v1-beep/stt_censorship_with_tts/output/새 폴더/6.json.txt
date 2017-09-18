@@ -1,0 +1,463 @@
+{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "the", 
+                            1.57, 
+                            1.67
+                        ]
+                    ], 
+                    "transcript": "the "
+                }
+            ], 
+            "final": false
+        }
+    ], 
+    "warnings": [
+        "Unknown arguments: continuous."
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "the", 
+                            1.57, 
+                            1.68
+                        ], 
+                        [
+                            "net", 
+                            1.68, 
+                            1.87
+                        ]
+                    ], 
+                    "transcript": "the net "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "the", 
+                            1.57, 
+                            1.68
+                        ], 
+                        [
+                            "national", 
+                            1.68, 
+                            2.17
+                        ]
+                    ], 
+                    "transcript": "the national "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "the", 
+                            1.57, 
+                            1.68
+                        ], 
+                        [
+                            "national", 
+                            1.68, 
+                            2.23
+                        ]
+                    ], 
+                    "transcript": "the national "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "the", 
+                            1.57, 
+                            1.68
+                        ], 
+                        [
+                            "national", 
+                            1.68, 
+                            2.33
+                        ]
+                    ], 
+                    "transcript": "the national "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "the", 
+                            1.57, 
+                            1.68
+                        ], 
+                        [
+                            "National", 
+                            1.68, 
+                            2.24
+                        ], 
+                        [
+                            "Weather", 
+                            2.24, 
+                            2.55
+                        ]
+                    ], 
+                    "transcript": "the National Weather "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "the", 
+                            1.57, 
+                            1.68
+                        ], 
+                        [
+                            "National", 
+                            1.68, 
+                            2.24
+                        ], 
+                        [
+                            "Weather", 
+                            2.24, 
+                            2.6
+                        ]
+                    ], 
+                    "transcript": "the National Weather "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "the", 
+                            1.57, 
+                            1.68
+                        ], 
+                        [
+                            "National", 
+                            1.68, 
+                            2.24
+                        ], 
+                        [
+                            "Weather", 
+                            2.24, 
+                            2.53
+                        ], 
+                        [
+                            "Service", 
+                            2.53, 
+                            3.01
+                        ]
+                    ], 
+                    "transcript": "the National Weather Service "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "the", 
+                            1.57, 
+                            1.68
+                        ], 
+                        [
+                            "National", 
+                            1.68, 
+                            2.24
+                        ], 
+                        [
+                            "Weather", 
+                            2.24, 
+                            2.53
+                        ], 
+                        [
+                            "Service", 
+                            2.53, 
+                            3.08
+                        ]
+                    ], 
+                    "transcript": "the National Weather Service "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "the", 
+                            1.57, 
+                            1.68
+                        ], 
+                        [
+                            "National", 
+                            1.68, 
+                            2.24
+                        ], 
+                        [
+                            "Weather", 
+                            2.24, 
+                            2.53
+                        ], 
+                        [
+                            "Service", 
+                            2.53, 
+                            2.99
+                        ], 
+                        [
+                            "says", 
+                            2.99, 
+                            3.25
+                        ]
+                    ], 
+                    "transcript": "the National Weather Service says "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "the", 
+                            1.57, 
+                            1.68
+                        ], 
+                        [
+                            "National", 
+                            1.68, 
+                            2.24
+                        ], 
+                        [
+                            "Weather", 
+                            2.24, 
+                            2.53
+                        ], 
+                        [
+                            "Service", 
+                            2.53, 
+                            2.99
+                        ], 
+                        [
+                            "said", 
+                            2.99, 
+                            3.39
+                        ]
+                    ], 
+                    "transcript": "the National Weather Service said "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "the", 
+                            1.57, 
+                            1.68
+                        ], 
+                        [
+                            "National", 
+                            1.68, 
+                            2.24
+                        ], 
+                        [
+                            "Weather", 
+                            2.24, 
+                            2.53
+                        ], 
+                        [
+                            "Service", 
+                            2.53, 
+                            2.99
+                        ], 
+                        [
+                            "said", 
+                            2.99, 
+                            3.44
+                        ]
+                    ], 
+                    "transcript": "the National Weather Service said "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "the", 
+                            1.57, 
+                            1.68
+                        ], 
+                        [
+                            "National", 
+                            1.68, 
+                            2.24
+                        ], 
+                        [
+                            "Weather", 
+                            2.24, 
+                            2.53
+                        ], 
+                        [
+                            "Service", 
+                            2.53, 
+                            2.99
+                        ], 
+                        [
+                            "said", 
+                            2.99, 
+                            3.47
+                        ]
+                    ], 
+                    "transcript": "the National Weather Service said "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.999, 
+                    "timestamps": [
+                        [
+                            "the", 
+                            1.57, 
+                            1.68
+                        ], 
+                        [
+                            "National", 
+                            1.68, 
+                            2.24
+                        ], 
+                        [
+                            "Weather", 
+                            2.24, 
+                            2.53
+                        ], 
+                        [
+                            "Service", 
+                            2.53, 
+                            2.99
+                        ], 
+                        [
+                            "said", 
+                            2.99, 
+                            3.47
+                        ]
+                    ], 
+                    "transcript": "the National Weather Service said ", 
+                    "word_confidence": [
+                        [
+                            "the", 
+                            1.0
+                        ], 
+                        [
+                            "National", 
+                            1.0
+                        ], 
+                        [
+                            "Weather", 
+                            1.0
+                        ], 
+                        [
+                            "Service", 
+                            1.0
+                        ], 
+                        [
+                            "said", 
+                            0.997
+                        ]
+                    ]
+                }
+            ], 
+            "final": true
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+python sttClient.py -credentials 07e1c8cc-b968-44ea-8349-0dbd9cb0eb57:E0rG5bW3vT0bM2tG6mI1rM8dX1mR3rQ2wV0qD8lM6mG3pS7pH1 -model en-US_BroadbandModel

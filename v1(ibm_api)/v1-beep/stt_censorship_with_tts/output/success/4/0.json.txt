@@ -1,0 +1,1205 @@
+{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "I", 
+                            0.03, 
+                            0.15
+                        ]
+                    ], 
+                    "transcript": "I "
+                }
+            ], 
+            "final": false
+        }
+    ], 
+    "warnings": [
+        "Unknown arguments: continuous."
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "I", 
+                            0.03, 
+                            0.11
+                        ], 
+                        [
+                            "just", 
+                            0.11, 
+                            0.31
+                        ], 
+                        [
+                            "need", 
+                            0.31, 
+                            0.41
+                        ]
+                    ], 
+                    "transcript": "I just need "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "I", 
+                            0.03, 
+                            0.11
+                        ], 
+                        [
+                            "just", 
+                            0.11, 
+                            0.4
+                        ], 
+                        [
+                            "wanted", 
+                            0.4, 
+                            0.65
+                        ]
+                    ], 
+                    "transcript": "I just wanted "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "I'm", 
+                            0.03, 
+                            0.12
+                        ], 
+                        [
+                            "just", 
+                            0.12, 
+                            0.4
+                        ], 
+                        [
+                            "waiting", 
+                            0.4, 
+                            0.64
+                        ], 
+                        [
+                            "for", 
+                            0.64, 
+                            0.89
+                        ]
+                    ], 
+                    "transcript": "I'm just waiting for "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "I'm", 
+                            0.03, 
+                            0.12
+                        ], 
+                        [
+                            "just", 
+                            0.12, 
+                            0.4
+                        ], 
+                        [
+                            "waiting", 
+                            0.4, 
+                            0.64
+                        ], 
+                        [
+                            "for", 
+                            0.64, 
+                            0.95
+                        ]
+                    ], 
+                    "transcript": "I'm just waiting for "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "I'm", 
+                            0.03, 
+                            0.12
+                        ], 
+                        [
+                            "just", 
+                            0.12, 
+                            0.4
+                        ], 
+                        [
+                            "waiting", 
+                            0.4, 
+                            0.64
+                        ], 
+                        [
+                            "for", 
+                            0.64, 
+                            1.03
+                        ], 
+                        [
+                            "the", 
+                            1.03, 
+                            1.19
+                        ]
+                    ], 
+                    "transcript": "I'm just waiting for the "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "how", 
+                            0.03, 
+                            0.09
+                        ], 
+                        [
+                            "does", 
+                            0.09, 
+                            0.28
+                        ], 
+                        [
+                            "the", 
+                            0.28, 
+                            0.38
+                        ], 
+                        [
+                            "web", 
+                            0.38, 
+                            0.57
+                        ], 
+                        [
+                            "and", 
+                            0.57, 
+                            0.68
+                        ], 
+                        [
+                            "****", 
+                            0.68, 
+                            1.26
+                        ]
+                    ], 
+                    "transcript": "how does the web and **** "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "how", 
+                            0.03, 
+                            0.09
+                        ], 
+                        [
+                            "does", 
+                            0.09, 
+                            0.28
+                        ], 
+                        [
+                            "the", 
+                            0.28, 
+                            0.38
+                        ], 
+                        [
+                            "web", 
+                            0.38, 
+                            0.7
+                        ], 
+                        [
+                            "****", 
+                            0.7, 
+                            1.25
+                        ], 
+                        [
+                            "mountain", 
+                            1.25, 
+                            1.69
+                        ]
+                    ], 
+                    "transcript": "how does the web **** mountain "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "how", 
+                            0.03, 
+                            0.09
+                        ], 
+                        [
+                            "does", 
+                            0.09, 
+                            0.28
+                        ], 
+                        [
+                            "the", 
+                            0.28, 
+                            0.38
+                        ], 
+                        [
+                            "web", 
+                            0.38, 
+                            0.7
+                        ], 
+                        [
+                            "****", 
+                            0.7, 
+                            1.25
+                        ], 
+                        [
+                            "mollusks", 
+                            1.25, 
+                            1.95
+                        ]
+                    ], 
+                    "transcript": "how does the web **** mollusks "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "how", 
+                            0.03, 
+                            0.09
+                        ], 
+                        [
+                            "does", 
+                            0.09, 
+                            0.28
+                        ], 
+                        [
+                            "the", 
+                            0.28, 
+                            0.38
+                        ], 
+                        [
+                            "web", 
+                            0.38, 
+                            0.7
+                        ], 
+                        [
+                            "****", 
+                            0.7, 
+                            1.25
+                        ], 
+                        [
+                            "mollusk", 
+                            1.25, 
+                            1.91
+                        ], 
+                        [
+                            "June", 
+                            1.91, 
+                            2.19
+                        ]
+                    ], 
+                    "transcript": "how does the web **** mollusk June "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "how", 
+                            0.03, 
+                            0.09
+                        ], 
+                        [
+                            "does", 
+                            0.09, 
+                            0.28
+                        ], 
+                        [
+                            "the", 
+                            0.28, 
+                            0.38
+                        ], 
+                        [
+                            "web", 
+                            0.38, 
+                            0.7
+                        ], 
+                        [
+                            "****", 
+                            0.7, 
+                            1.25
+                        ], 
+                        [
+                            "mollusk", 
+                            1.25, 
+                            1.91
+                        ], 
+                        [
+                            "shooting", 
+                            1.91, 
+                            2.32
+                        ], 
+                        [
+                            "off", 
+                            2.32, 
+                            2.45
+                        ]
+                    ], 
+                    "transcript": "how does the web **** mollusk shooting off "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "how", 
+                            0.03, 
+                            0.09
+                        ], 
+                        [
+                            "does", 
+                            0.09, 
+                            0.28
+                        ], 
+                        [
+                            "the", 
+                            0.28, 
+                            0.38
+                        ], 
+                        [
+                            "web", 
+                            0.38, 
+                            0.7
+                        ], 
+                        [
+                            "****", 
+                            0.7, 
+                            1.25
+                        ], 
+                        [
+                            "Mars", 
+                            1.25, 
+                            1.84
+                        ], 
+                        [
+                            "curiosity", 
+                            1.84, 
+                            2.65
+                        ]
+                    ], 
+                    "transcript": "how does the web **** Mars curiosity "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "how", 
+                            0.03, 
+                            0.09
+                        ], 
+                        [
+                            "does", 
+                            0.09, 
+                            0.28
+                        ], 
+                        [
+                            "the", 
+                            0.28, 
+                            0.38
+                        ], 
+                        [
+                            "web", 
+                            0.38, 
+                            0.7
+                        ], 
+                        [
+                            "****", 
+                            0.7, 
+                            1.25
+                        ], 
+                        [
+                            "Mars", 
+                            1.25, 
+                            1.84
+                        ], 
+                        [
+                            "curiosity", 
+                            1.84, 
+                            2.73
+                        ]
+                    ], 
+                    "transcript": "how does the web **** Mars curiosity "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "how", 
+                            0.03, 
+                            0.09
+                        ], 
+                        [
+                            "does", 
+                            0.09, 
+                            0.28
+                        ], 
+                        [
+                            "the", 
+                            0.28, 
+                            0.38
+                        ], 
+                        [
+                            "web", 
+                            0.38, 
+                            0.7
+                        ], 
+                        [
+                            "****", 
+                            0.7, 
+                            1.25
+                        ], 
+                        [
+                            "Mars", 
+                            1.25, 
+                            1.84
+                        ], 
+                        [
+                            "curiosity", 
+                            1.84, 
+                            2.8
+                        ], 
+                        [
+                            "rover", 
+                            2.8, 
+                            3.19
+                        ]
+                    ], 
+                    "transcript": "how does the web **** Mars curiosity rover "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "how", 
+                            0.03, 
+                            0.09
+                        ], 
+                        [
+                            "does", 
+                            0.09, 
+                            0.28
+                        ], 
+                        [
+                            "the", 
+                            0.28, 
+                            0.38
+                        ], 
+                        [
+                            "web", 
+                            0.38, 
+                            0.7
+                        ], 
+                        [
+                            "****", 
+                            0.7, 
+                            1.25
+                        ], 
+                        [
+                            "Mars", 
+                            1.25, 
+                            1.84
+                        ], 
+                        [
+                            "curiosity", 
+                            1.84, 
+                            2.8
+                        ], 
+                        [
+                            "rover", 
+                            2.8, 
+                            3.32
+                        ]
+                    ], 
+                    "transcript": "how does the web **** Mars curiosity rover "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "how", 
+                            0.03, 
+                            0.09
+                        ], 
+                        [
+                            "does", 
+                            0.09, 
+                            0.28
+                        ], 
+                        [
+                            "the", 
+                            0.28, 
+                            0.38
+                        ], 
+                        [
+                            "web", 
+                            0.38, 
+                            0.7
+                        ], 
+                        [
+                            "****", 
+                            0.7, 
+                            1.25
+                        ], 
+                        [
+                            "Mars", 
+                            1.25, 
+                            1.84
+                        ], 
+                        [
+                            "curiosity", 
+                            1.84, 
+                            2.8
+                        ], 
+                        [
+                            "rover", 
+                            2.8, 
+                            3.32
+                        ], 
+                        [
+                            "gets", 
+                            3.43, 
+                            3.69
+                        ]
+                    ], 
+                    "transcript": "how does the web **** Mars curiosity rover gets "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "how", 
+                            0.03, 
+                            0.09
+                        ], 
+                        [
+                            "does", 
+                            0.09, 
+                            0.28
+                        ], 
+                        [
+                            "the", 
+                            0.28, 
+                            0.38
+                        ], 
+                        [
+                            "web", 
+                            0.38, 
+                            0.7
+                        ], 
+                        [
+                            "****", 
+                            0.7, 
+                            1.25
+                        ], 
+                        [
+                            "Mars", 
+                            1.25, 
+                            1.84
+                        ], 
+                        [
+                            "curiosity", 
+                            1.84, 
+                            2.8
+                        ], 
+                        [
+                            "rover", 
+                            2.8, 
+                            3.32
+                        ], 
+                        [
+                            "gets", 
+                            3.43, 
+                            3.7
+                        ], 
+                        [
+                            "better", 
+                            3.7, 
+                            3.95
+                        ]
+                    ], 
+                    "transcript": "how does the web **** Mars curiosity rover gets better "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "how", 
+                            0.03, 
+                            0.09
+                        ], 
+                        [
+                            "does", 
+                            0.09, 
+                            0.28
+                        ], 
+                        [
+                            "the", 
+                            0.28, 
+                            0.38
+                        ], 
+                        [
+                            "web", 
+                            0.38, 
+                            0.7
+                        ], 
+                        [
+                            "****", 
+                            0.7, 
+                            1.25
+                        ], 
+                        [
+                            "Mars", 
+                            1.25, 
+                            1.84
+                        ], 
+                        [
+                            "curiosity", 
+                            1.84, 
+                            2.8
+                        ], 
+                        [
+                            "rover", 
+                            2.8, 
+                            3.32
+                        ], 
+                        [
+                            "gets", 
+                            3.43, 
+                            3.7
+                        ], 
+                        [
+                            "better", 
+                            3.7, 
+                            4.09
+                        ]
+                    ], 
+                    "transcript": "how does the web **** Mars curiosity rover gets better "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "how", 
+                            0.03, 
+                            0.09
+                        ], 
+                        [
+                            "does", 
+                            0.09, 
+                            0.28
+                        ], 
+                        [
+                            "the", 
+                            0.28, 
+                            0.38
+                        ], 
+                        [
+                            "web", 
+                            0.38, 
+                            0.7
+                        ], 
+                        [
+                            "****", 
+                            0.7, 
+                            1.25
+                        ], 
+                        [
+                            "Mars", 
+                            1.25, 
+                            1.84
+                        ], 
+                        [
+                            "curiosity", 
+                            1.84, 
+                            2.8
+                        ], 
+                        [
+                            "rover", 
+                            2.8, 
+                            3.32
+                        ], 
+                        [
+                            "gets", 
+                            3.43, 
+                            3.7
+                        ], 
+                        [
+                            "better", 
+                            3.7, 
+                            4.09
+                        ]
+                    ], 
+                    "transcript": "how does the web **** Mars curiosity rover gets better "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "how", 
+                            0.03, 
+                            0.09
+                        ], 
+                        [
+                            "does", 
+                            0.09, 
+                            0.28
+                        ], 
+                        [
+                            "the", 
+                            0.28, 
+                            0.38
+                        ], 
+                        [
+                            "web", 
+                            0.38, 
+                            0.7
+                        ], 
+                        [
+                            "****", 
+                            0.7, 
+                            1.25
+                        ], 
+                        [
+                            "Mars", 
+                            1.25, 
+                            1.84
+                        ], 
+                        [
+                            "curiosity", 
+                            1.84, 
+                            2.8
+                        ], 
+                        [
+                            "rover", 
+                            2.8, 
+                            3.32
+                        ], 
+                        [
+                            "gets", 
+                            3.43, 
+                            3.7
+                        ], 
+                        [
+                            "better", 
+                            3.7, 
+                            4.05
+                        ], 
+                        [
+                            "particularly", 
+                            4.05, 
+                            4.69
+                        ]
+                    ], 
+                    "transcript": "how does the web **** Mars curiosity rover gets better particularly "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "how", 
+                            0.03, 
+                            0.09
+                        ], 
+                        [
+                            "does", 
+                            0.09, 
+                            0.28
+                        ], 
+                        [
+                            "the", 
+                            0.28, 
+                            0.38
+                        ], 
+                        [
+                            "web", 
+                            0.38, 
+                            0.7
+                        ], 
+                        [
+                            "****", 
+                            0.7, 
+                            1.25
+                        ], 
+                        [
+                            "Mars", 
+                            1.25, 
+                            1.84
+                        ], 
+                        [
+                            "curiosity", 
+                            1.84, 
+                            2.8
+                        ], 
+                        [
+                            "rover", 
+                            2.8, 
+                            3.32
+                        ], 
+                        [
+                            "gets", 
+                            3.43, 
+                            3.7
+                        ], 
+                        [
+                            "better", 
+                            3.7, 
+                            4.05
+                        ], 
+                        [
+                            "particularly", 
+                            4.05, 
+                            4.73
+                        ], 
+                        [
+                            "good", 
+                            4.73, 
+                            4.89
+                        ]
+                    ], 
+                    "transcript": "how does the web **** Mars curiosity rover gets better particularly good "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "how", 
+                            0.03, 
+                            0.09
+                        ], 
+                        [
+                            "does", 
+                            0.09, 
+                            0.28
+                        ], 
+                        [
+                            "the", 
+                            0.28, 
+                            0.38
+                        ], 
+                        [
+                            "web", 
+                            0.38, 
+                            0.7
+                        ], 
+                        [
+                            "****", 
+                            0.7, 
+                            1.25
+                        ], 
+                        [
+                            "Mars", 
+                            1.25, 
+                            1.84
+                        ], 
+                        [
+                            "curiosity", 
+                            1.84, 
+                            2.8
+                        ], 
+                        [
+                            "rover", 
+                            2.8, 
+                            3.32
+                        ], 
+                        [
+                            "gets", 
+                            3.43, 
+                            3.7
+                        ], 
+                        [
+                            "better", 
+                            3.7, 
+                            4.05
+                        ], 
+                        [
+                            "particularly", 
+                            4.05, 
+                            4.73
+                        ]
+                    ], 
+                    "transcript": "how does the web **** Mars curiosity rover gets better particularly "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.749, 
+                    "timestamps": [
+                        [
+                            "I", 
+                            0.03, 
+                            0.07
+                        ], 
+                        [
+                            "honestly", 
+                            0.07, 
+                            0.39
+                        ], 
+                        [
+                            "wasn't", 
+                            0.39, 
+                            0.69
+                        ], 
+                        [
+                            "****", 
+                            0.69, 
+                            1.25
+                        ], 
+                        [
+                            "Mars", 
+                            1.25, 
+                            1.84
+                        ], 
+                        [
+                            "curiosity", 
+                            1.84, 
+                            2.8
+                        ], 
+                        [
+                            "rover", 
+                            2.8, 
+                            3.32
+                        ], 
+                        [
+                            "gets", 
+                            3.43, 
+                            3.7
+                        ], 
+                        [
+                            "better", 
+                            3.7, 
+                            4.05
+                        ], 
+                        [
+                            "particularly", 
+                            4.05, 
+                            4.73
+                        ]
+                    ], 
+                    "transcript": "I honestly wasn't **** Mars curiosity rover gets better particularly ", 
+                    "word_confidence": [
+                        [
+                            "I", 
+                            0.317
+                        ], 
+                        [
+                            "honestly", 
+                            0.059
+                        ], 
+                        [
+                            "wasn't", 
+                            0.052
+                        ], 
+                        [
+                            "****", 
+                            0.843
+                        ], 
+                        [
+                            "Mars", 
+                            0.624
+                        ], 
+                        [
+                            "curiosity", 
+                            1.0
+                        ], 
+                        [
+                            "rover", 
+                            0.996
+                        ], 
+                        [
+                            "gets", 
+                            0.985
+                        ], 
+                        [
+                            "better", 
+                            0.805
+                        ], 
+                        [
+                            "particularly", 
+                            0.773
+                        ]
+                    ]
+                }, 
+                {
+                    "transcript": "I just know what **** Mars curiosity rover gets better particularly "
+                }, 
+                {
+                    "transcript": "how does the web **** Mars curiosity rover gets better particularly "
+                }
+            ], 
+            "final": true
+        }
+    ]
+}

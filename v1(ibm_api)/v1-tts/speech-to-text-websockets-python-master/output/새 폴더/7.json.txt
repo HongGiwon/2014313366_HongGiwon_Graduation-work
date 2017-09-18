@@ -1,0 +1,964 @@
+{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "at", 
+                            1.56, 
+                            1.75
+                        ]
+                    ], 
+                    "transcript": "at "
+                }
+            ], 
+            "final": false
+        }
+    ], 
+    "warnings": [
+        "Unknown arguments: continuous."
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "at", 
+                            1.56, 
+                            1.76
+                        ], 
+                        [
+                            "least", 
+                            1.76, 
+                            2.01
+                        ]
+                    ], 
+                    "transcript": "at least "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "at", 
+                            1.56, 
+                            1.76
+                        ], 
+                        [
+                            "least", 
+                            1.76, 
+                            2.09
+                        ]
+                    ], 
+                    "transcript": "at least "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "at", 
+                            1.56, 
+                            1.76
+                        ], 
+                        [
+                            "least", 
+                            1.76, 
+                            2.06
+                        ], 
+                        [
+                            "three", 
+                            2.06, 
+                            2.33
+                        ]
+                    ], 
+                    "transcript": "at least three "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "at", 
+                            1.56, 
+                            1.76
+                        ], 
+                        [
+                            "least", 
+                            1.76, 
+                            2.06
+                        ], 
+                        [
+                            "three", 
+                            2.06, 
+                            2.31
+                        ], 
+                        [
+                            "of", 
+                            2.31, 
+                            2.45
+                        ]
+                    ], 
+                    "transcript": "at least three of "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "at", 
+                            1.56, 
+                            1.76
+                        ], 
+                        [
+                            "least", 
+                            1.76, 
+                            2.06
+                        ], 
+                        [
+                            "three", 
+                            2.06, 
+                            2.31
+                        ], 
+                        [
+                            "of", 
+                            2.31, 
+                            2.47
+                        ], 
+                        [
+                            "the", 
+                            2.47, 
+                            2.59
+                        ]
+                    ], 
+                    "transcript": "at least three of the "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "at", 
+                            1.56, 
+                            1.76
+                        ], 
+                        [
+                            "least", 
+                            1.76, 
+                            2.06
+                        ], 
+                        [
+                            "three", 
+                            2.06, 
+                            2.31
+                        ], 
+                        [
+                            "of", 
+                            2.31, 
+                            2.47
+                        ], 
+                        [
+                            "them", 
+                            2.47, 
+                            2.73
+                        ]
+                    ], 
+                    "transcript": "at least three of them "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "at", 
+                            1.56, 
+                            1.76
+                        ], 
+                        [
+                            "least", 
+                            1.76, 
+                            2.06
+                        ], 
+                        [
+                            "three", 
+                            2.06, 
+                            2.31
+                        ], 
+                        [
+                            "of", 
+                            2.31, 
+                            2.47
+                        ], 
+                        [
+                            "them", 
+                            2.47, 
+                            2.74
+                        ]
+                    ], 
+                    "transcript": "at least three of them "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "at", 
+                            1.56, 
+                            1.76
+                        ], 
+                        [
+                            "least", 
+                            1.76, 
+                            2.06
+                        ], 
+                        [
+                            "three", 
+                            2.06, 
+                            2.31
+                        ], 
+                        [
+                            "of", 
+                            2.31, 
+                            2.47
+                        ], 
+                        [
+                            "them", 
+                            2.47, 
+                            2.71
+                        ], 
+                        [
+                            "because", 
+                            2.71, 
+                            3.01
+                        ]
+                    ], 
+                    "transcript": "at least three of them because "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "at", 
+                            1.56, 
+                            1.76
+                        ], 
+                        [
+                            "least", 
+                            1.76, 
+                            2.06
+                        ], 
+                        [
+                            "three", 
+                            2.06, 
+                            2.31
+                        ], 
+                        [
+                            "of", 
+                            2.31, 
+                            2.47
+                        ], 
+                        [
+                            "them", 
+                            2.47, 
+                            2.71
+                        ], 
+                        [
+                            "because", 
+                            2.71, 
+                            3.11
+                        ]
+                    ], 
+                    "transcript": "at least three of them because "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "at", 
+                            1.56, 
+                            1.76
+                        ], 
+                        [
+                            "least", 
+                            1.76, 
+                            2.06
+                        ], 
+                        [
+                            "three", 
+                            2.06, 
+                            2.31
+                        ], 
+                        [
+                            "of", 
+                            2.31, 
+                            2.47
+                        ], 
+                        [
+                            "them", 
+                            2.47, 
+                            2.71
+                        ], 
+                        [
+                            "because", 
+                            2.71, 
+                            3.19
+                        ]
+                    ], 
+                    "transcript": "at least three of them because "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "at", 
+                            1.56, 
+                            1.76
+                        ], 
+                        [
+                            "least", 
+                            1.76, 
+                            2.06
+                        ], 
+                        [
+                            "three", 
+                            2.06, 
+                            2.31
+                        ], 
+                        [
+                            "of", 
+                            2.31, 
+                            2.47
+                        ], 
+                        [
+                            "them", 
+                            2.47, 
+                            2.71
+                        ], 
+                        [
+                            "caused", 
+                            2.71, 
+                            3.29
+                        ]
+                    ], 
+                    "transcript": "at least three of them caused "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "at", 
+                            1.56, 
+                            1.76
+                        ], 
+                        [
+                            "least", 
+                            1.76, 
+                            2.06
+                        ], 
+                        [
+                            "three", 
+                            2.06, 
+                            2.31
+                        ], 
+                        [
+                            "of", 
+                            2.31, 
+                            2.47
+                        ], 
+                        [
+                            "them", 
+                            2.47, 
+                            2.71
+                        ], 
+                        [
+                            "because", 
+                            2.71, 
+                            3.16
+                        ], 
+                        [
+                            "today", 
+                            3.16, 
+                            3.39
+                        ]
+                    ], 
+                    "transcript": "at least three of them because today "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "at", 
+                            1.56, 
+                            1.76
+                        ], 
+                        [
+                            "least", 
+                            1.76, 
+                            2.06
+                        ], 
+                        [
+                            "three", 
+                            2.06, 
+                            2.31
+                        ], 
+                        [
+                            "of", 
+                            2.31, 
+                            2.47
+                        ], 
+                        [
+                            "them", 
+                            2.47, 
+                            2.71
+                        ], 
+                        [
+                            "because", 
+                            2.71, 
+                            3.16
+                        ], 
+                        [
+                            "today", 
+                            3.16, 
+                            3.47
+                        ]
+                    ], 
+                    "transcript": "at least three of them because today "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "at", 
+                            1.56, 
+                            1.76
+                        ], 
+                        [
+                            "least", 
+                            1.76, 
+                            2.06
+                        ], 
+                        [
+                            "three", 
+                            2.06, 
+                            2.31
+                        ], 
+                        [
+                            "of", 
+                            2.31, 
+                            2.47
+                        ], 
+                        [
+                            "them", 
+                            2.47, 
+                            2.71
+                        ], 
+                        [
+                            "because", 
+                            2.71, 
+                            3.16
+                        ], 
+                        [
+                            "the", 
+                            3.16, 
+                            3.27
+                        ], 
+                        [
+                            "damn", 
+                            3.27, 
+                            3.57
+                        ]
+                    ], 
+                    "transcript": "at least three of them because the damn "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "at", 
+                            1.56, 
+                            1.76
+                        ], 
+                        [
+                            "least", 
+                            1.76, 
+                            2.06
+                        ], 
+                        [
+                            "three", 
+                            2.06, 
+                            2.31
+                        ], 
+                        [
+                            "of", 
+                            2.31, 
+                            2.47
+                        ], 
+                        [
+                            "them", 
+                            2.47, 
+                            2.71
+                        ], 
+                        [
+                            "because", 
+                            2.71, 
+                            3.16
+                        ], 
+                        [
+                            "the", 
+                            3.16, 
+                            3.27
+                        ], 
+                        [
+                            "damn", 
+                            3.27, 
+                            3.66
+                        ]
+                    ], 
+                    "transcript": "at least three of them because the damn "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "at", 
+                            1.56, 
+                            1.76
+                        ], 
+                        [
+                            "least", 
+                            1.76, 
+                            2.06
+                        ], 
+                        [
+                            "three", 
+                            2.06, 
+                            2.31
+                        ], 
+                        [
+                            "of", 
+                            2.31, 
+                            2.47
+                        ], 
+                        [
+                            "them", 
+                            2.47, 
+                            2.71
+                        ], 
+                        [
+                            "caused", 
+                            2.71, 
+                            3.29
+                        ], 
+                        [
+                            "damage", 
+                            3.29, 
+                            3.75
+                        ]
+                    ], 
+                    "transcript": "at least three of them caused damage "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "at", 
+                            1.56, 
+                            1.76
+                        ], 
+                        [
+                            "least", 
+                            1.76, 
+                            2.06
+                        ], 
+                        [
+                            "three", 
+                            2.06, 
+                            2.31
+                        ], 
+                        [
+                            "of", 
+                            2.31, 
+                            2.47
+                        ], 
+                        [
+                            "them", 
+                            2.47, 
+                            2.71
+                        ], 
+                        [
+                            "caused", 
+                            2.71, 
+                            3.29
+                        ], 
+                        [
+                            "damage", 
+                            3.29, 
+                            3.85
+                        ]
+                    ], 
+                    "transcript": "at least three of them caused damage "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "at", 
+                            1.56, 
+                            1.76
+                        ], 
+                        [
+                            "least", 
+                            1.76, 
+                            2.06
+                        ], 
+                        [
+                            "three", 
+                            2.06, 
+                            2.31
+                        ], 
+                        [
+                            "of", 
+                            2.31, 
+                            2.47
+                        ], 
+                        [
+                            "them", 
+                            2.47, 
+                            2.71
+                        ], 
+                        [
+                            "caused", 
+                            2.71, 
+                            3.29
+                        ], 
+                        [
+                            "damage", 
+                            3.29, 
+                            3.9
+                        ]
+                    ], 
+                    "transcript": "at least three of them caused damage "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "at", 
+                            1.56, 
+                            1.76
+                        ], 
+                        [
+                            "least", 
+                            1.76, 
+                            2.06
+                        ], 
+                        [
+                            "three", 
+                            2.06, 
+                            2.31
+                        ], 
+                        [
+                            "of", 
+                            2.31, 
+                            2.47
+                        ], 
+                        [
+                            "them", 
+                            2.47, 
+                            2.71
+                        ], 
+                        [
+                            "caused", 
+                            2.71, 
+                            3.29
+                        ], 
+                        [
+                            "damage", 
+                            3.29, 
+                            4.0
+                        ]
+                    ], 
+                    "transcript": "at least three of them caused damage "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "at", 
+                            1.56, 
+                            1.76
+                        ], 
+                        [
+                            "least", 
+                            1.76, 
+                            2.06
+                        ], 
+                        [
+                            "three", 
+                            2.06, 
+                            2.31
+                        ], 
+                        [
+                            "of", 
+                            2.31, 
+                            2.47
+                        ], 
+                        [
+                            "them", 
+                            2.47, 
+                            2.71
+                        ], 
+                        [
+                            "caused", 
+                            2.71, 
+                            3.29
+                        ], 
+                        [
+                            "damage", 
+                            3.29, 
+                            4.03
+                        ]
+                    ], 
+                    "transcript": "at least three of them caused damage "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.836, 
+                    "timestamps": [
+                        [
+                            "at", 
+                            1.56, 
+                            1.76
+                        ], 
+                        [
+                            "least", 
+                            1.76, 
+                            2.06
+                        ], 
+                        [
+                            "three", 
+                            2.06, 
+                            2.31
+                        ], 
+                        [
+                            "of", 
+                            2.31, 
+                            2.47
+                        ], 
+                        [
+                            "them", 
+                            2.47, 
+                            2.71
+                        ], 
+                        [
+                            "caused", 
+                            2.71, 
+                            3.29
+                        ], 
+                        [
+                            "damage", 
+                            3.29, 
+                            4.03
+                        ]
+                    ], 
+                    "transcript": "at least three of them caused damage ", 
+                    "word_confidence": [
+                        [
+                            "at", 
+                            1.0
+                        ], 
+                        [
+                            "least", 
+                            1.0
+                        ], 
+                        [
+                            "three", 
+                            1.0
+                        ], 
+                        [
+                            "of", 
+                            1.0
+                        ], 
+                        [
+                            "them", 
+                            1.0
+                        ], 
+                        [
+                            "caused", 
+                            0.303
+                        ], 
+                        [
+                            "damage", 
+                            0.998
+                        ]
+                    ]
+                }, 
+                {
+                    "transcript": "at least three of them cause to damage "
+                }, 
+                {
+                    "transcript": "at least three of them because the damage "
+                }
+            ], 
+            "final": true
+        }
+    ]
+}

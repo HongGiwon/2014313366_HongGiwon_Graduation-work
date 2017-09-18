@@ -1,0 +1,925 @@
+{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "we", 
+                            1.25, 
+                            1.4
+                        ]
+                    ], 
+                    "transcript": "we "
+                }
+            ], 
+            "final": false
+        }
+    ], 
+    "warnings": [
+        "Unknown arguments: continuous."
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "well", 
+                            1.26, 
+                            1.54
+                        ], 
+                        [
+                            "to", 
+                            1.54, 
+                            1.66
+                        ]
+                    ], 
+                    "transcript": "well to "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "well", 
+                            1.26, 
+                            1.54
+                        ], 
+                        [
+                            "to", 
+                            1.54, 
+                            1.84
+                        ]
+                    ], 
+                    "transcript": "well to "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "well", 
+                            1.26, 
+                            1.54
+                        ], 
+                        [
+                            "to", 
+                            1.54, 
+                            1.8
+                        ], 
+                        [
+                            "other", 
+                            1.8, 
+                            1.98
+                        ]
+                    ], 
+                    "transcript": "well to other "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "well", 
+                            1.26, 
+                            1.54
+                        ], 
+                        [
+                            "to", 
+                            1.54, 
+                            1.8
+                        ], 
+                        [
+                            "others", 
+                            1.8, 
+                            2.08
+                        ]
+                    ], 
+                    "transcript": "well to others "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "well", 
+                            1.26, 
+                            1.54
+                        ], 
+                        [
+                            "to", 
+                            1.54, 
+                            1.8
+                        ], 
+                        [
+                            "others", 
+                            1.8, 
+                            2.15
+                        ]
+                    ], 
+                    "transcript": "well to others "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "well", 
+                            1.26, 
+                            1.54
+                        ], 
+                        [
+                            "to", 
+                            1.54, 
+                            1.8
+                        ], 
+                        [
+                            "others", 
+                            1.8, 
+                            2.13
+                        ], 
+                        [
+                            "he", 
+                            2.13, 
+                            2.26
+                        ]
+                    ], 
+                    "transcript": "well to others he "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "well", 
+                            1.26, 
+                            1.54
+                        ], 
+                        [
+                            "two", 
+                            1.54, 
+                            1.8
+                        ], 
+                        [
+                            "others", 
+                            1.8, 
+                            2.13
+                        ], 
+                        [
+                            "hit", 
+                            2.13, 
+                            2.36
+                        ]
+                    ], 
+                    "transcript": "well two others hit "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "well", 
+                            1.26, 
+                            1.54
+                        ], 
+                        [
+                            "two", 
+                            1.54, 
+                            1.8
+                        ], 
+                        [
+                            "others", 
+                            1.8, 
+                            2.13
+                        ], 
+                        [
+                            "hit", 
+                            2.13, 
+                            2.43
+                        ]
+                    ], 
+                    "transcript": "well two others hit "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "well", 
+                            1.26, 
+                            1.54
+                        ], 
+                        [
+                            "two", 
+                            1.54, 
+                            1.8
+                        ], 
+                        [
+                            "others", 
+                            1.8, 
+                            2.13
+                        ], 
+                        [
+                            "hit", 
+                            2.13, 
+                            2.45
+                        ]
+                    ], 
+                    "transcript": "well two others hit "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "well", 
+                            1.26, 
+                            1.54
+                        ], 
+                        [
+                            "two", 
+                            1.54, 
+                            1.8
+                        ], 
+                        [
+                            "others", 
+                            1.8, 
+                            2.13
+                        ], 
+                        [
+                            "hit", 
+                            2.13, 
+                            2.45
+                        ], 
+                        [
+                            "and", 
+                            2.48, 
+                            2.64
+                        ]
+                    ], 
+                    "transcript": "well two others hit and "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "well", 
+                            1.26, 
+                            1.54
+                        ], 
+                        [
+                            "two", 
+                            1.54, 
+                            1.8
+                        ], 
+                        [
+                            "others", 
+                            1.8, 
+                            2.13
+                        ], 
+                        [
+                            "hit", 
+                            2.13, 
+                            2.45
+                        ], 
+                        [
+                            "and", 
+                            2.48, 
+                            2.74
+                        ]
+                    ], 
+                    "transcript": "well two others hit and "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "well", 
+                            1.26, 
+                            1.54
+                        ], 
+                        [
+                            "two", 
+                            1.54, 
+                            1.8
+                        ], 
+                        [
+                            "others", 
+                            1.8, 
+                            2.13
+                        ], 
+                        [
+                            "hit", 
+                            2.13, 
+                            2.45
+                        ], 
+                        [
+                            "in", 
+                            2.48, 
+                            2.6
+                        ], 
+                        [
+                            "per", 
+                            2.6, 
+                            2.82
+                        ]
+                    ], 
+                    "transcript": "well two others hit in per "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "well", 
+                            1.26, 
+                            1.54
+                        ], 
+                        [
+                            "two", 
+                            1.54, 
+                            1.8
+                        ], 
+                        [
+                            "others", 
+                            1.8, 
+                            2.13
+                        ], 
+                        [
+                            "hit", 
+                            2.13, 
+                            2.45
+                        ], 
+                        [
+                            "in", 
+                            2.48, 
+                            2.6
+                        ], 
+                        [
+                            "park", 
+                            2.6, 
+                            2.92
+                        ]
+                    ], 
+                    "transcript": "well two others hit in park "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "well", 
+                            1.26, 
+                            1.54
+                        ], 
+                        [
+                            "two", 
+                            1.54, 
+                            1.8
+                        ], 
+                        [
+                            "others", 
+                            1.8, 
+                            2.13
+                        ], 
+                        [
+                            "hit", 
+                            2.13, 
+                            2.45
+                        ], 
+                        [
+                            "in", 
+                            2.48, 
+                            2.6
+                        ], 
+                        [
+                            "park", 
+                            2.6, 
+                            3.02
+                        ]
+                    ], 
+                    "transcript": "well two others hit in park "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "well", 
+                            1.26, 
+                            1.54
+                        ], 
+                        [
+                            "two", 
+                            1.54, 
+                            1.8
+                        ], 
+                        [
+                            "others", 
+                            1.8, 
+                            2.13
+                        ], 
+                        [
+                            "hit", 
+                            2.13, 
+                            2.45
+                        ], 
+                        [
+                            "in", 
+                            2.48, 
+                            2.6
+                        ], 
+                        [
+                            "park", 
+                            2.6, 
+                            3.1
+                        ]
+                    ], 
+                    "transcript": "well two others hit in park "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "well", 
+                            1.26, 
+                            1.54
+                        ], 
+                        [
+                            "two", 
+                            1.54, 
+                            1.8
+                        ], 
+                        [
+                            "others", 
+                            1.8, 
+                            2.13
+                        ], 
+                        [
+                            "hit", 
+                            2.13, 
+                            2.45
+                        ], 
+                        [
+                            "in", 
+                            2.48, 
+                            2.6
+                        ], 
+                        [
+                            "park", 
+                            2.6, 
+                            2.94
+                        ], 
+                        [
+                            "can", 
+                            2.99, 
+                            3.2
+                        ]
+                    ], 
+                    "transcript": "well two others hit in park can "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "well", 
+                            1.26, 
+                            1.54
+                        ], 
+                        [
+                            "two", 
+                            1.54, 
+                            1.8
+                        ], 
+                        [
+                            "others", 
+                            1.8, 
+                            2.13
+                        ], 
+                        [
+                            "hit", 
+                            2.13, 
+                            2.45
+                        ], 
+                        [
+                            "in", 
+                            2.48, 
+                            2.6
+                        ], 
+                        [
+                            "park", 
+                            2.6, 
+                            2.94
+                        ], 
+                        [
+                            "can", 
+                            2.99, 
+                            3.25
+                        ]
+                    ], 
+                    "transcript": "well two others hit in park can "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "well", 
+                            1.26, 
+                            1.54
+                        ], 
+                        [
+                            "two", 
+                            1.54, 
+                            1.8
+                        ], 
+                        [
+                            "others", 
+                            1.8, 
+                            2.13
+                        ], 
+                        [
+                            "hit", 
+                            2.13, 
+                            2.45
+                        ], 
+                        [
+                            "in", 
+                            2.48, 
+                            2.6
+                        ], 
+                        [
+                            "park", 
+                            2.6, 
+                            2.94
+                        ], 
+                        [
+                            "county", 
+                            2.99, 
+                            3.38
+                        ]
+                    ], 
+                    "transcript": "well two others hit in park county "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "well", 
+                            1.26, 
+                            1.54
+                        ], 
+                        [
+                            "two", 
+                            1.54, 
+                            1.8
+                        ], 
+                        [
+                            "others", 
+                            1.8, 
+                            2.13
+                        ], 
+                        [
+                            "hit", 
+                            2.13, 
+                            2.45
+                        ], 
+                        [
+                            "in", 
+                            2.48, 
+                            2.6
+                        ], 
+                        [
+                            "park", 
+                            2.6, 
+                            2.94
+                        ], 
+                        [
+                            "county", 
+                            2.99, 
+                            3.45
+                        ]
+                    ], 
+                    "transcript": "well two others hit in park county "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "well", 
+                            1.26, 
+                            1.54
+                        ], 
+                        [
+                            "two", 
+                            1.54, 
+                            1.8
+                        ], 
+                        [
+                            "others", 
+                            1.8, 
+                            2.13
+                        ], 
+                        [
+                            "hit", 
+                            2.13, 
+                            2.45
+                        ], 
+                        [
+                            "in", 
+                            2.48, 
+                            2.6
+                        ], 
+                        [
+                            "park", 
+                            2.6, 
+                            2.94
+                        ], 
+                        [
+                            "county", 
+                            2.99, 
+                            3.53
+                        ]
+                    ], 
+                    "transcript": "well two others hit in park county "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "well", 
+                            1.26, 
+                            1.54
+                        ], 
+                        [
+                            "two", 
+                            1.54, 
+                            1.8
+                        ], 
+                        [
+                            "others", 
+                            1.8, 
+                            2.13
+                        ], 
+                        [
+                            "hit", 
+                            2.13, 
+                            2.45
+                        ], 
+                        [
+                            "in", 
+                            2.48, 
+                            2.6
+                        ], 
+                        [
+                            "park", 
+                            2.6, 
+                            2.94
+                        ], 
+                        [
+                            "county", 
+                            2.99, 
+                            3.54
+                        ]
+                    ], 
+                    "transcript": "well two others hit in park county "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.999, 
+                    "timestamps": [
+                        [
+                            "well", 
+                            1.26, 
+                            1.54
+                        ], 
+                        [
+                            "two", 
+                            1.54, 
+                            1.8
+                        ], 
+                        [
+                            "others", 
+                            1.8, 
+                            2.13
+                        ], 
+                        [
+                            "hit", 
+                            2.13, 
+                            2.45
+                        ], 
+                        [
+                            "in", 
+                            2.48, 
+                            2.6
+                        ], 
+                        [
+                            "park", 
+                            2.6, 
+                            2.94
+                        ], 
+                        [
+                            "county", 
+                            2.99, 
+                            3.54
+                        ]
+                    ], 
+                    "transcript": "well two others hit in park county ", 
+                    "word_confidence": [
+                        [
+                            "well", 
+                            1.0
+                        ], 
+                        [
+                            "two", 
+                            1.0
+                        ], 
+                        [
+                            "others", 
+                            1.0
+                        ], 
+                        [
+                            "hit", 
+                            1.0
+                        ], 
+                        [
+                            "in", 
+                            1.0
+                        ], 
+                        [
+                            "park", 
+                            1.0
+                        ], 
+                        [
+                            "county", 
+                            0.996
+                        ]
+                    ]
+                }, 
+                {
+                    "transcript": "well to others hit in park county "
+                }
+            ], 
+            "final": true
+        }
+    ]
+}

@@ -1,0 +1,713 @@
+{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "because", 
+                            0.87, 
+                            1.16
+                        ]
+                    ], 
+                    "transcript": "because "
+                }
+            ], 
+            "final": false
+        }
+    ], 
+    "warnings": [
+        "Unknown arguments: continuous."
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "causing", 
+                            0.87, 
+                            1.4
+                        ]
+                    ], 
+                    "transcript": "causing "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "causing", 
+                            0.87, 
+                            1.41
+                        ], 
+                        [
+                            "one", 
+                            1.41, 
+                            1.66
+                        ]
+                    ], 
+                    "transcript": "causing one "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "causing", 
+                            0.87, 
+                            1.41
+                        ], 
+                        [
+                            "one", 
+                            1.41, 
+                            1.65
+                        ], 
+                        [
+                            "my", 
+                            1.65, 
+                            1.9
+                        ]
+                    ], 
+                    "transcript": "causing one my "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "causing", 
+                            0.87, 
+                            1.41
+                        ], 
+                        [
+                            "one", 
+                            1.41, 
+                            1.65
+                        ], 
+                        [
+                            "minor", 
+                            1.65, 
+                            2.16
+                        ]
+                    ], 
+                    "transcript": "causing one minor "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "causing", 
+                            0.87, 
+                            1.41
+                        ], 
+                        [
+                            "one", 
+                            1.41, 
+                            1.65
+                        ], 
+                        [
+                            "minor", 
+                            1.65, 
+                            2.07
+                        ], 
+                        [
+                            "in", 
+                            2.07, 
+                            2.34
+                        ]
+                    ], 
+                    "transcript": "causing one minor in "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "causing", 
+                            0.87, 
+                            1.41
+                        ], 
+                        [
+                            "one", 
+                            1.41, 
+                            1.65
+                        ], 
+                        [
+                            "minor", 
+                            1.65, 
+                            2.07
+                        ], 
+                        [
+                            "injury", 
+                            2.07, 
+                            2.62
+                        ]
+                    ], 
+                    "transcript": "causing one minor injury "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "causing", 
+                            0.87, 
+                            1.41
+                        ], 
+                        [
+                            "one", 
+                            1.41, 
+                            1.65
+                        ], 
+                        [
+                            "minor", 
+                            1.65, 
+                            2.07
+                        ], 
+                        [
+                            "injury", 
+                            2.07, 
+                            2.6
+                        ], 
+                        [
+                            "and", 
+                            2.6, 
+                            2.82
+                        ]
+                    ], 
+                    "transcript": "causing one minor injury and "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "causing", 
+                            0.87, 
+                            1.41
+                        ], 
+                        [
+                            "one", 
+                            1.41, 
+                            1.65
+                        ], 
+                        [
+                            "minor", 
+                            1.65, 
+                            2.07
+                        ], 
+                        [
+                            "injury", 
+                            2.07, 
+                            2.6
+                        ], 
+                        [
+                            "and", 
+                            2.6, 
+                            2.81
+                        ], 
+                        [
+                            "flip", 
+                            2.81, 
+                            3.08
+                        ]
+                    ], 
+                    "transcript": "causing one minor injury and flip "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "causing", 
+                            0.87, 
+                            1.41
+                        ], 
+                        [
+                            "one", 
+                            1.41, 
+                            1.65
+                        ], 
+                        [
+                            "minor", 
+                            1.65, 
+                            2.07
+                        ], 
+                        [
+                            "injury", 
+                            2.07, 
+                            2.6
+                        ], 
+                        [
+                            "and", 
+                            2.6, 
+                            2.81
+                        ], 
+                        [
+                            "flipping", 
+                            2.81, 
+                            3.29
+                        ], 
+                        [
+                            "a", 
+                            3.29, 
+                            3.32
+                        ]
+                    ], 
+                    "transcript": "causing one minor injury and flipping a "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "causing", 
+                            0.87, 
+                            1.41
+                        ], 
+                        [
+                            "one", 
+                            1.41, 
+                            1.65
+                        ], 
+                        [
+                            "minor", 
+                            1.65, 
+                            2.07
+                        ], 
+                        [
+                            "injury", 
+                            2.07, 
+                            2.6
+                        ], 
+                        [
+                            "and", 
+                            2.6, 
+                            2.81
+                        ], 
+                        [
+                            "flipping", 
+                            2.81, 
+                            3.27
+                        ], 
+                        [
+                            "in", 
+                            3.27, 
+                            3.37
+                        ], 
+                        [
+                            "them", 
+                            3.37, 
+                            3.58
+                        ]
+                    ], 
+                    "transcript": "causing one minor injury and flipping in them "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "causing", 
+                            0.87, 
+                            1.41
+                        ], 
+                        [
+                            "one", 
+                            1.41, 
+                            1.65
+                        ], 
+                        [
+                            "minor", 
+                            1.65, 
+                            2.07
+                        ], 
+                        [
+                            "injury", 
+                            2.07, 
+                            2.6
+                        ], 
+                        [
+                            "and", 
+                            2.6, 
+                            2.81
+                        ], 
+                        [
+                            "flipping", 
+                            2.81, 
+                            3.28
+                        ], 
+                        [
+                            "an", 
+                            3.28, 
+                            3.39
+                        ], 
+                        [
+                            "empty", 
+                            3.39, 
+                            3.76
+                        ]
+                    ], 
+                    "transcript": "causing one minor injury and flipping an empty "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "causing", 
+                            0.87, 
+                            1.41
+                        ], 
+                        [
+                            "one", 
+                            1.41, 
+                            1.65
+                        ], 
+                        [
+                            "minor", 
+                            1.65, 
+                            2.07
+                        ], 
+                        [
+                            "injury", 
+                            2.07, 
+                            2.6
+                        ], 
+                        [
+                            "and", 
+                            2.6, 
+                            2.81
+                        ], 
+                        [
+                            "flipping", 
+                            2.81, 
+                            3.28
+                        ], 
+                        [
+                            "an", 
+                            3.28, 
+                            3.39
+                        ], 
+                        [
+                            "empty", 
+                            3.39, 
+                            3.71
+                        ], 
+                        [
+                            "tray", 
+                            3.71, 
+                            4.0
+                        ]
+                    ], 
+                    "transcript": "causing one minor injury and flipping an empty tray "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "causing", 
+                            0.87, 
+                            1.41
+                        ], 
+                        [
+                            "one", 
+                            1.41, 
+                            1.65
+                        ], 
+                        [
+                            "minor", 
+                            1.65, 
+                            2.07
+                        ], 
+                        [
+                            "injury", 
+                            2.07, 
+                            2.6
+                        ], 
+                        [
+                            "and", 
+                            2.6, 
+                            2.81
+                        ], 
+                        [
+                            "flipping", 
+                            2.81, 
+                            3.28
+                        ], 
+                        [
+                            "an", 
+                            3.28, 
+                            3.39
+                        ], 
+                        [
+                            "empty", 
+                            3.39, 
+                            3.71
+                        ], 
+                        [
+                            "trailer", 
+                            3.71, 
+                            4.26
+                        ]
+                    ], 
+                    "transcript": "causing one minor injury and flipping an empty trailer "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "causing", 
+                            0.87, 
+                            1.41
+                        ], 
+                        [
+                            "one", 
+                            1.41, 
+                            1.65
+                        ], 
+                        [
+                            "minor", 
+                            1.65, 
+                            2.07
+                        ], 
+                        [
+                            "injury", 
+                            2.07, 
+                            2.6
+                        ], 
+                        [
+                            "and", 
+                            2.6, 
+                            2.81
+                        ], 
+                        [
+                            "flipping", 
+                            2.81, 
+                            3.28
+                        ], 
+                        [
+                            "an", 
+                            3.28, 
+                            3.39
+                        ], 
+                        [
+                            "empty", 
+                            3.39, 
+                            3.71
+                        ], 
+                        [
+                            "trailer", 
+                            3.71, 
+                            4.38
+                        ]
+                    ], 
+                    "transcript": "causing one minor injury and flipping an empty trailer "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.96, 
+                    "timestamps": [
+                        [
+                            "causing", 
+                            0.87, 
+                            1.41
+                        ], 
+                        [
+                            "one", 
+                            1.41, 
+                            1.65
+                        ], 
+                        [
+                            "minor", 
+                            1.65, 
+                            2.07
+                        ], 
+                        [
+                            "injury", 
+                            2.07, 
+                            2.6
+                        ], 
+                        [
+                            "and", 
+                            2.6, 
+                            2.81
+                        ], 
+                        [
+                            "flipping", 
+                            2.81, 
+                            3.28
+                        ], 
+                        [
+                            "an", 
+                            3.28, 
+                            3.39
+                        ], 
+                        [
+                            "empty", 
+                            3.39, 
+                            3.71
+                        ], 
+                        [
+                            "trailer", 
+                            3.71, 
+                            4.38
+                        ]
+                    ], 
+                    "transcript": "causing one minor injury and flipping an empty trailer ", 
+                    "word_confidence": [
+                        [
+                            "causing", 
+                            1.0
+                        ], 
+                        [
+                            "one", 
+                            1.0
+                        ], 
+                        [
+                            "minor", 
+                            1.0
+                        ], 
+                        [
+                            "injury", 
+                            0.921
+                        ], 
+                        [
+                            "and", 
+                            0.945
+                        ], 
+                        [
+                            "flipping", 
+                            0.993
+                        ], 
+                        [
+                            "an", 
+                            0.318
+                        ], 
+                        [
+                            "empty", 
+                            0.985
+                        ], 
+                        [
+                            "trailer", 
+                            0.996
+                        ]
+                    ]
+                }, 
+                {
+                    "transcript": "causing one minor injury and flipping in empty trailer "
+                }, 
+                {
+                    "transcript": "causing one minor injury and flipping and empty trailer "
+                }
+            ], 
+            "final": true
+        }
+    ]
+}

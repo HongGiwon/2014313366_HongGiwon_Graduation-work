@@ -1,0 +1,3138 @@
+{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "then", 
+                            0.03, 
+                            0.21
+                        ], 
+                        [
+                            "we", 
+                            0.21, 
+                            0.29
+                        ]
+                    ], 
+                    "transcript": "then we "
+                }
+            ], 
+            "final": false
+        }
+    ], 
+    "warnings": [
+        "Unknown arguments: continuous."
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "then", 
+                            0.03, 
+                            0.21
+                        ], 
+                        [
+                            "we", 
+                            0.21, 
+                            0.32
+                        ], 
+                        [
+                            "have", 
+                            0.32, 
+                            0.53
+                        ]
+                    ], 
+                    "transcript": "then we have "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "then", 
+                            0.03, 
+                            0.21
+                        ], 
+                        [
+                            "we", 
+                            0.21, 
+                            0.32
+                        ], 
+                        [
+                            "have", 
+                            0.32, 
+                            0.56
+                        ], 
+                        [
+                            "one", 
+                            0.56, 
+                            0.71
+                        ]
+                    ], 
+                    "transcript": "then we have one "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "then", 
+                            0.03, 
+                            0.21
+                        ], 
+                        [
+                            "we", 
+                            0.21, 
+                            0.32
+                        ], 
+                        [
+                            "have", 
+                            0.32, 
+                            0.56
+                        ], 
+                        [
+                            "one", 
+                            0.56, 
+                            0.71
+                        ], 
+                        [
+                            "of", 
+                            0.71, 
+                            0.79
+                        ], 
+                        [
+                            "my", 
+                            0.79, 
+                            0.97
+                        ]
+                    ], 
+                    "transcript": "then we have one of my "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "then", 
+                            0.03, 
+                            0.21
+                        ], 
+                        [
+                            "we", 
+                            0.21, 
+                            0.32
+                        ], 
+                        [
+                            "have", 
+                            0.32, 
+                            0.56
+                        ], 
+                        [
+                            "one", 
+                            0.56, 
+                            0.71
+                        ], 
+                        [
+                            "of", 
+                            0.71, 
+                            0.79
+                        ], 
+                        [
+                            "my", 
+                            0.79, 
+                            1.03
+                        ]
+                    ], 
+                    "transcript": "then we have one of my "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "then", 
+                            0.03, 
+                            0.21
+                        ], 
+                        [
+                            "we", 
+                            0.21, 
+                            0.32
+                        ], 
+                        [
+                            "have", 
+                            0.32, 
+                            0.56
+                        ], 
+                        [
+                            "one", 
+                            0.56, 
+                            0.71
+                        ], 
+                        [
+                            "of", 
+                            0.71, 
+                            0.79
+                        ], 
+                        [
+                            "my", 
+                            0.79, 
+                            0.95
+                        ], 
+                        [
+                            "favorites", 
+                            0.95, 
+                            1.52
+                        ]
+                    ], 
+                    "transcript": "then we have one of my favorites "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "then", 
+                            0.03, 
+                            0.21
+                        ], 
+                        [
+                            "we", 
+                            0.21, 
+                            0.32
+                        ], 
+                        [
+                            "have", 
+                            0.32, 
+                            0.56
+                        ], 
+                        [
+                            "one", 
+                            0.56, 
+                            0.71
+                        ], 
+                        [
+                            "of", 
+                            0.71, 
+                            0.79
+                        ], 
+                        [
+                            "my", 
+                            0.79, 
+                            0.95
+                        ], 
+                        [
+                            "favorites", 
+                            0.95, 
+                            1.57
+                        ]
+                    ], 
+                    "transcript": "then we have one of my favorites "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.98, 
+                    "timestamps": [
+                        [
+                            "then", 
+                            0.03, 
+                            0.21
+                        ], 
+                        [
+                            "we", 
+                            0.21, 
+                            0.32
+                        ], 
+                        [
+                            "have", 
+                            0.32, 
+                            0.56
+                        ], 
+                        [
+                            "one", 
+                            0.56, 
+                            0.71
+                        ], 
+                        [
+                            "of", 
+                            0.71, 
+                            0.79
+                        ], 
+                        [
+                            "my", 
+                            0.79, 
+                            0.95
+                        ], 
+                        [
+                            "favorites", 
+                            0.95, 
+                            1.57
+                        ]
+                    ], 
+                    "transcript": "then we have one of my favorites ", 
+                    "word_confidence": [
+                        [
+                            "then", 
+                            0.846
+                        ], 
+                        [
+                            "we", 
+                            1.0
+                        ], 
+                        [
+                            "have", 
+                            1.0
+                        ], 
+                        [
+                            "one", 
+                            1.0
+                        ], 
+                        [
+                            "of", 
+                            1.0
+                        ], 
+                        [
+                            "my", 
+                            1.0
+                        ], 
+                        [
+                            "favorites", 
+                            0.996
+                        ]
+                    ]
+                }, 
+                {
+                    "transcript": "that we have one of my favorites "
+                }
+            ], 
+            "final": true
+        }
+    ]
+}{
+    "result_index": 1, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "boy", 
+                            1.79, 
+                            1.99
+                        ]
+                    ], 
+                    "transcript": "boy "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 1, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "both", 
+                            1.79, 
+                            2.13
+                        ]
+                    ], 
+                    "transcript": "both "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 1, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "both", 
+                            1.79, 
+                            2.19
+                        ]
+                    ], 
+                    "transcript": "both "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 1, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            1.79, 
+                            2.27
+                        ]
+                    ], 
+                    "transcript": "bullshit "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 1, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            1.79, 
+                            2.33
+                        ]
+                    ], 
+                    "transcript": "bullshit "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 1, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            1.79, 
+                            2.41
+                        ]
+                    ], 
+                    "transcript": "bullshit "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 1, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            1.79, 
+                            2.43
+                        ]
+                    ], 
+                    "transcript": "bullshit "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 1, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            1.79, 
+                            2.52
+                        ]
+                    ], 
+                    "transcript": "bullshit "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 1, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.682, 
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            1.79, 
+                            2.52
+                        ]
+                    ], 
+                    "transcript": "bullshit ", 
+                    "word_confidence": [
+                        [
+                            "bullshit", 
+                            0.682
+                        ]
+                    ]
+                }, 
+                {
+                    "transcript": "bull shit "
+                }
+            ], 
+            "final": true
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "both", 
+                            3.99, 
+                            4.18
+                        ]
+                    ], 
+                    "transcript": "both "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "both", 
+                            3.99, 
+                            4.34
+                        ]
+                    ], 
+                    "transcript": "both "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.52
+                        ]
+                    ], 
+                    "transcript": "bullshit "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.68
+                        ]
+                    ], 
+                    "transcript": "bullshit "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "me", 
+                            4.59, 
+                            4.78
+                        ]
+                    ], 
+                    "transcript": "bullshit me "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "me", 
+                            4.59, 
+                            4.84
+                        ]
+                    ], 
+                    "transcript": "bullshit me "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "mean", 
+                            4.59, 
+                            4.92
+                        ]
+                    ], 
+                    "transcript": "bullshit mean "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            4.98
+                        ]
+                    ], 
+                    "transcript": "bullshit means "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.06
+                        ]
+                    ], 
+                    "transcript": "bullshit means "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.12
+                        ]
+                    ], 
+                    "transcript": "bullshit means "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.17
+                        ]
+                    ], 
+                    "transcript": "bullshit means "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ]
+                    ], 
+                    "transcript": "bullshit means "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "so", 
+                            5.34, 
+                            5.54
+                        ]
+                    ], 
+                    "transcript": "bullshit means so "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "some", 
+                            5.34, 
+                            5.7
+                        ]
+                    ], 
+                    "transcript": "bullshit means some "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "some", 
+                            5.34, 
+                            5.82
+                        ]
+                    ], 
+                    "transcript": "bullshit means some "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "someone", 
+                            5.34, 
+                            5.92
+                        ]
+                    ], 
+                    "transcript": "bullshit means someone "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "someone's", 
+                            5.34, 
+                            6.0
+                        ]
+                    ], 
+                    "transcript": "bullshit means someone's "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "someone's", 
+                            5.34, 
+                            6.08
+                        ]
+                    ], 
+                    "transcript": "bullshit means someone's "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "someone's", 
+                            5.34, 
+                            6.14
+                        ]
+                    ], 
+                    "transcript": "bullshit means someone's "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "someone's", 
+                            5.34, 
+                            6.18
+                        ]
+                    ], 
+                    "transcript": "bullshit means someone's "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "someone's", 
+                            5.34, 
+                            6.18
+                        ], 
+                        [
+                            "telling", 
+                            6.51, 
+                            6.88
+                        ]
+                    ], 
+                    "transcript": "bullshit means someone's telling "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "someone's", 
+                            5.34, 
+                            6.18
+                        ], 
+                        [
+                            "telling", 
+                            6.51, 
+                            6.91
+                        ], 
+                        [
+                            "you", 
+                            6.91, 
+                            7.1
+                        ]
+                    ], 
+                    "transcript": "bullshit means someone's telling you "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "someone's", 
+                            5.34, 
+                            6.18
+                        ], 
+                        [
+                            "telling", 
+                            6.51, 
+                            6.91
+                        ], 
+                        [
+                            "use", 
+                            6.91, 
+                            7.24
+                        ]
+                    ], 
+                    "transcript": "bullshit means someone's telling use "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "someone's", 
+                            5.34, 
+                            6.18
+                        ], 
+                        [
+                            "telling", 
+                            6.51, 
+                            6.91
+                        ], 
+                        [
+                            "you", 
+                            6.91, 
+                            7.11
+                        ], 
+                        [
+                            "some", 
+                            7.11, 
+                            7.36
+                        ]
+                    ], 
+                    "transcript": "bullshit means someone's telling you some "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "someone's", 
+                            5.34, 
+                            6.18
+                        ], 
+                        [
+                            "telling", 
+                            6.51, 
+                            6.91
+                        ], 
+                        [
+                            "you", 
+                            6.91, 
+                            7.11
+                        ], 
+                        [
+                            "some", 
+                            7.11, 
+                            7.42
+                        ]
+                    ], 
+                    "transcript": "bullshit means someone's telling you some "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "someone's", 
+                            5.34, 
+                            6.18
+                        ], 
+                        [
+                            "telling", 
+                            6.51, 
+                            6.91
+                        ], 
+                        [
+                            "you", 
+                            6.91, 
+                            7.11
+                        ], 
+                        [
+                            "something", 
+                            7.11, 
+                            7.5
+                        ]
+                    ], 
+                    "transcript": "bullshit means someone's telling you something "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "someone's", 
+                            5.34, 
+                            6.18
+                        ], 
+                        [
+                            "telling", 
+                            6.51, 
+                            6.91
+                        ], 
+                        [
+                            "you", 
+                            6.91, 
+                            7.11
+                        ], 
+                        [
+                            "something", 
+                            7.11, 
+                            7.56
+                        ]
+                    ], 
+                    "transcript": "bullshit means someone's telling you something "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "someone's", 
+                            5.34, 
+                            6.18
+                        ], 
+                        [
+                            "telling", 
+                            6.51, 
+                            6.91
+                        ], 
+                        [
+                            "you", 
+                            6.91, 
+                            7.11
+                        ], 
+                        [
+                            "something", 
+                            7.11, 
+                            7.64
+                        ]
+                    ], 
+                    "transcript": "bullshit means someone's telling you something "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "someone's", 
+                            5.34, 
+                            6.18
+                        ], 
+                        [
+                            "telling", 
+                            6.51, 
+                            6.91
+                        ], 
+                        [
+                            "you", 
+                            6.91, 
+                            7.11
+                        ], 
+                        [
+                            "something", 
+                            7.11, 
+                            7.59
+                        ], 
+                        [
+                            "that", 
+                            7.59, 
+                            7.7
+                        ]
+                    ], 
+                    "transcript": "bullshit means someone's telling you something that "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "someone's", 
+                            5.34, 
+                            6.18
+                        ], 
+                        [
+                            "telling", 
+                            6.51, 
+                            6.91
+                        ], 
+                        [
+                            "you", 
+                            6.91, 
+                            7.11
+                        ], 
+                        [
+                            "something", 
+                            7.11, 
+                            7.59
+                        ], 
+                        [
+                            "that", 
+                            7.59, 
+                            7.78
+                        ]
+                    ], 
+                    "transcript": "bullshit means someone's telling you something that "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "someone's", 
+                            5.34, 
+                            6.18
+                        ], 
+                        [
+                            "telling", 
+                            6.51, 
+                            6.91
+                        ], 
+                        [
+                            "you", 
+                            6.91, 
+                            7.11
+                        ], 
+                        [
+                            "something", 
+                            7.11, 
+                            7.59
+                        ], 
+                        [
+                            "that", 
+                            7.59, 
+                            7.76
+                        ], 
+                        [
+                            "you", 
+                            7.76, 
+                            7.84
+                        ]
+                    ], 
+                    "transcript": "bullshit means someone's telling you something that you "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "someone's", 
+                            5.34, 
+                            6.18
+                        ], 
+                        [
+                            "telling", 
+                            6.51, 
+                            6.91
+                        ], 
+                        [
+                            "you", 
+                            6.91, 
+                            7.11
+                        ], 
+                        [
+                            "something", 
+                            7.11, 
+                            7.59
+                        ], 
+                        [
+                            "that", 
+                            7.59, 
+                            7.76
+                        ], 
+                        [
+                            "you", 
+                            7.76, 
+                            7.9
+                        ]
+                    ], 
+                    "transcript": "bullshit means someone's telling you something that you "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "someone's", 
+                            5.34, 
+                            6.18
+                        ], 
+                        [
+                            "telling", 
+                            6.51, 
+                            6.91
+                        ], 
+                        [
+                            "you", 
+                            6.91, 
+                            7.11
+                        ], 
+                        [
+                            "something", 
+                            7.11, 
+                            7.59
+                        ], 
+                        [
+                            "that", 
+                            7.59, 
+                            7.76
+                        ], 
+                        [
+                            "you", 
+                            7.76, 
+                            7.98
+                        ]
+                    ], 
+                    "transcript": "bullshit means someone's telling you something that you "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "someone's", 
+                            5.34, 
+                            6.18
+                        ], 
+                        [
+                            "telling", 
+                            6.51, 
+                            6.91
+                        ], 
+                        [
+                            "you", 
+                            6.91, 
+                            7.11
+                        ], 
+                        [
+                            "something", 
+                            7.11, 
+                            7.59
+                        ], 
+                        [
+                            "that", 
+                            7.59, 
+                            7.76
+                        ], 
+                        [
+                            "you", 
+                            7.76, 
+                            8.04
+                        ]
+                    ], 
+                    "transcript": "bullshit means someone's telling you something that you "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "someone's", 
+                            5.34, 
+                            6.18
+                        ], 
+                        [
+                            "telling", 
+                            6.51, 
+                            6.91
+                        ], 
+                        [
+                            "you", 
+                            6.91, 
+                            7.11
+                        ], 
+                        [
+                            "something", 
+                            7.11, 
+                            7.59
+                        ], 
+                        [
+                            "that", 
+                            7.59, 
+                            7.76
+                        ], 
+                        [
+                            "used", 
+                            7.76, 
+                            8.12
+                        ]
+                    ], 
+                    "transcript": "bullshit means someone's telling you something that used "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "someone's", 
+                            5.34, 
+                            6.18
+                        ], 
+                        [
+                            "telling", 
+                            6.51, 
+                            6.91
+                        ], 
+                        [
+                            "you", 
+                            6.91, 
+                            7.11
+                        ], 
+                        [
+                            "something", 
+                            7.11, 
+                            7.59
+                        ], 
+                        [
+                            "that", 
+                            7.59, 
+                            7.76
+                        ], 
+                        [
+                            "you", 
+                            7.76, 
+                            8.0
+                        ], 
+                        [
+                            "see", 
+                            8.0, 
+                            8.18
+                        ]
+                    ], 
+                    "transcript": "bullshit means someone's telling you something that you see "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "someone's", 
+                            5.34, 
+                            6.18
+                        ], 
+                        [
+                            "telling", 
+                            6.51, 
+                            6.91
+                        ], 
+                        [
+                            "you", 
+                            6.91, 
+                            7.11
+                        ], 
+                        [
+                            "something", 
+                            7.11, 
+                            7.59
+                        ], 
+                        [
+                            "that", 
+                            7.59, 
+                            7.76
+                        ], 
+                        [
+                            "you", 
+                            7.76, 
+                            8.0
+                        ], 
+                        [
+                            "think", 
+                            8.0, 
+                            8.26
+                        ]
+                    ], 
+                    "transcript": "bullshit means someone's telling you something that you think "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "someone's", 
+                            5.34, 
+                            6.18
+                        ], 
+                        [
+                            "telling", 
+                            6.51, 
+                            6.91
+                        ], 
+                        [
+                            "you", 
+                            6.91, 
+                            7.11
+                        ], 
+                        [
+                            "something", 
+                            7.11, 
+                            7.59
+                        ], 
+                        [
+                            "that", 
+                            7.59, 
+                            7.76
+                        ], 
+                        [
+                            "you", 
+                            7.76, 
+                            8.0
+                        ], 
+                        [
+                            "think", 
+                            8.0, 
+                            8.32
+                        ]
+                    ], 
+                    "transcript": "bullshit means someone's telling you something that you think "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "someone's", 
+                            5.34, 
+                            6.18
+                        ], 
+                        [
+                            "telling", 
+                            6.51, 
+                            6.91
+                        ], 
+                        [
+                            "you", 
+                            6.91, 
+                            7.11
+                        ], 
+                        [
+                            "something", 
+                            7.11, 
+                            7.59
+                        ], 
+                        [
+                            "that", 
+                            7.59, 
+                            7.76
+                        ], 
+                        [
+                            "you", 
+                            7.76, 
+                            8.0
+                        ], 
+                        [
+                            "think", 
+                            8.0, 
+                            8.4
+                        ]
+                    ], 
+                    "transcript": "bullshit means someone's telling you something that you think "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "someone's", 
+                            5.34, 
+                            6.18
+                        ], 
+                        [
+                            "telling", 
+                            6.51, 
+                            6.91
+                        ], 
+                        [
+                            "you", 
+                            6.91, 
+                            7.11
+                        ], 
+                        [
+                            "something", 
+                            7.11, 
+                            7.59
+                        ], 
+                        [
+                            "that", 
+                            7.59, 
+                            7.76
+                        ], 
+                        [
+                            "you", 
+                            7.76, 
+                            8.0
+                        ], 
+                        [
+                            "think", 
+                            8.0, 
+                            8.42
+                        ]
+                    ], 
+                    "transcript": "bullshit means someone's telling you something that you think "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "someone's", 
+                            5.34, 
+                            6.18
+                        ], 
+                        [
+                            "telling", 
+                            6.51, 
+                            6.91
+                        ], 
+                        [
+                            "you", 
+                            6.91, 
+                            7.11
+                        ], 
+                        [
+                            "something", 
+                            7.11, 
+                            7.59
+                        ], 
+                        [
+                            "that", 
+                            7.59, 
+                            7.76
+                        ], 
+                        [
+                            "you", 
+                            7.76, 
+                            8.0
+                        ], 
+                        [
+                            "think", 
+                            8.0, 
+                            8.41
+                        ], 
+                        [
+                            "you", 
+                            8.44, 
+                            8.54
+                        ]
+                    ], 
+                    "transcript": "bullshit means someone's telling you something that you think you "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "someone's", 
+                            5.34, 
+                            6.18
+                        ], 
+                        [
+                            "telling", 
+                            6.51, 
+                            6.91
+                        ], 
+                        [
+                            "you", 
+                            6.91, 
+                            7.11
+                        ], 
+                        [
+                            "something", 
+                            7.11, 
+                            7.59
+                        ], 
+                        [
+                            "that", 
+                            7.59, 
+                            7.76
+                        ], 
+                        [
+                            "you", 
+                            7.76, 
+                            8.0
+                        ], 
+                        [
+                            "think", 
+                            8.0, 
+                            8.41
+                        ], 
+                        [
+                            "is", 
+                            8.44, 
+                            8.6
+                        ]
+                    ], 
+                    "transcript": "bullshit means someone's telling you something that you think is "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "someone's", 
+                            5.34, 
+                            6.18
+                        ], 
+                        [
+                            "telling", 
+                            6.51, 
+                            6.91
+                        ], 
+                        [
+                            "you", 
+                            6.91, 
+                            7.11
+                        ], 
+                        [
+                            "something", 
+                            7.11, 
+                            7.59
+                        ], 
+                        [
+                            "that", 
+                            7.59, 
+                            7.76
+                        ], 
+                        [
+                            "you", 
+                            7.76, 
+                            8.0
+                        ], 
+                        [
+                            "think", 
+                            8.0, 
+                            8.41
+                        ], 
+                        [
+                            "is", 
+                            8.44, 
+                            8.68
+                        ]
+                    ], 
+                    "transcript": "bullshit means someone's telling you something that you think is "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "someone's", 
+                            5.34, 
+                            6.18
+                        ], 
+                        [
+                            "telling", 
+                            6.51, 
+                            6.91
+                        ], 
+                        [
+                            "you", 
+                            6.91, 
+                            7.11
+                        ], 
+                        [
+                            "something", 
+                            7.11, 
+                            7.59
+                        ], 
+                        [
+                            "that", 
+                            7.59, 
+                            7.76
+                        ], 
+                        [
+                            "you", 
+                            7.76, 
+                            8.0
+                        ], 
+                        [
+                            "think", 
+                            8.0, 
+                            8.41
+                        ], 
+                        [
+                            "is", 
+                            8.44, 
+                            8.68
+                        ], 
+                        [
+                            "a", 
+                            8.68, 
+                            8.74
+                        ]
+                    ], 
+                    "transcript": "bullshit means someone's telling you something that you think is a "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "someone's", 
+                            5.34, 
+                            6.18
+                        ], 
+                        [
+                            "telling", 
+                            6.51, 
+                            6.91
+                        ], 
+                        [
+                            "you", 
+                            6.91, 
+                            7.11
+                        ], 
+                        [
+                            "something", 
+                            7.11, 
+                            7.59
+                        ], 
+                        [
+                            "that", 
+                            7.59, 
+                            7.76
+                        ], 
+                        [
+                            "you", 
+                            7.76, 
+                            8.0
+                        ], 
+                        [
+                            "think", 
+                            8.0, 
+                            8.41
+                        ], 
+                        [
+                            "is", 
+                            8.44, 
+                            8.7
+                        ], 
+                        [
+                            "now", 
+                            8.7, 
+                            8.82
+                        ]
+                    ], 
+                    "transcript": "bullshit means someone's telling you something that you think is now "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "someone's", 
+                            5.34, 
+                            6.18
+                        ], 
+                        [
+                            "telling", 
+                            6.51, 
+                            6.91
+                        ], 
+                        [
+                            "you", 
+                            6.91, 
+                            7.11
+                        ], 
+                        [
+                            "something", 
+                            7.11, 
+                            7.59
+                        ], 
+                        [
+                            "that", 
+                            7.59, 
+                            7.76
+                        ], 
+                        [
+                            "you", 
+                            7.76, 
+                            8.0
+                        ], 
+                        [
+                            "think", 
+                            8.0, 
+                            8.41
+                        ], 
+                        [
+                            "is", 
+                            8.44, 
+                            8.7
+                        ], 
+                        [
+                            "not", 
+                            8.7, 
+                            8.88
+                        ]
+                    ], 
+                    "transcript": "bullshit means someone's telling you something that you think is not "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "someone's", 
+                            5.34, 
+                            6.18
+                        ], 
+                        [
+                            "telling", 
+                            6.51, 
+                            6.91
+                        ], 
+                        [
+                            "you", 
+                            6.91, 
+                            7.11
+                        ], 
+                        [
+                            "something", 
+                            7.11, 
+                            7.59
+                        ], 
+                        [
+                            "that", 
+                            7.59, 
+                            7.76
+                        ], 
+                        [
+                            "you", 
+                            7.76, 
+                            8.0
+                        ], 
+                        [
+                            "think", 
+                            8.0, 
+                            8.41
+                        ], 
+                        [
+                            "is", 
+                            8.44, 
+                            8.7
+                        ], 
+                        [
+                            "not", 
+                            8.7, 
+                            8.96
+                        ]
+                    ], 
+                    "transcript": "bullshit means someone's telling you something that you think is not "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "someone's", 
+                            5.34, 
+                            6.18
+                        ], 
+                        [
+                            "telling", 
+                            6.51, 
+                            6.91
+                        ], 
+                        [
+                            "you", 
+                            6.91, 
+                            7.11
+                        ], 
+                        [
+                            "something", 
+                            7.11, 
+                            7.59
+                        ], 
+                        [
+                            "that", 
+                            7.59, 
+                            7.76
+                        ], 
+                        [
+                            "you", 
+                            7.76, 
+                            8.0
+                        ], 
+                        [
+                            "think", 
+                            8.0, 
+                            8.41
+                        ], 
+                        [
+                            "is", 
+                            8.44, 
+                            8.7
+                        ], 
+                        [
+                            "not", 
+                            8.7, 
+                            9.02
+                        ]
+                    ], 
+                    "transcript": "bullshit means someone's telling you something that you think is not "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "someone's", 
+                            5.34, 
+                            6.18
+                        ], 
+                        [
+                            "telling", 
+                            6.51, 
+                            6.91
+                        ], 
+                        [
+                            "you", 
+                            6.91, 
+                            7.11
+                        ], 
+                        [
+                            "something", 
+                            7.11, 
+                            7.59
+                        ], 
+                        [
+                            "that", 
+                            7.59, 
+                            7.76
+                        ], 
+                        [
+                            "you", 
+                            7.76, 
+                            8.0
+                        ], 
+                        [
+                            "think", 
+                            8.0, 
+                            8.41
+                        ], 
+                        [
+                            "is", 
+                            8.44, 
+                            8.7
+                        ], 
+                        [
+                            "not", 
+                            8.7, 
+                            9.1
+                        ]
+                    ], 
+                    "transcript": "bullshit means someone's telling you something that you think is not "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "someone's", 
+                            5.34, 
+                            6.18
+                        ], 
+                        [
+                            "telling", 
+                            6.51, 
+                            6.91
+                        ], 
+                        [
+                            "you", 
+                            6.91, 
+                            7.11
+                        ], 
+                        [
+                            "something", 
+                            7.11, 
+                            7.59
+                        ], 
+                        [
+                            "that", 
+                            7.59, 
+                            7.76
+                        ], 
+                        [
+                            "you", 
+                            7.76, 
+                            8.0
+                        ], 
+                        [
+                            "think", 
+                            8.0, 
+                            8.41
+                        ], 
+                        [
+                            "is", 
+                            8.44, 
+                            8.7
+                        ], 
+                        [
+                            "not", 
+                            8.7, 
+                            9.03
+                        ]
+                    ], 
+                    "transcript": "bullshit means someone's telling you something that you think is not "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "someone's", 
+                            5.34, 
+                            6.18
+                        ], 
+                        [
+                            "telling", 
+                            6.51, 
+                            6.91
+                        ], 
+                        [
+                            "you", 
+                            6.91, 
+                            7.11
+                        ], 
+                        [
+                            "something", 
+                            7.11, 
+                            7.59
+                        ], 
+                        [
+                            "that", 
+                            7.59, 
+                            7.76
+                        ], 
+                        [
+                            "you", 
+                            7.76, 
+                            8.0
+                        ], 
+                        [
+                            "think", 
+                            8.0, 
+                            8.41
+                        ], 
+                        [
+                            "is", 
+                            8.44, 
+                            8.7
+                        ], 
+                        [
+                            "not", 
+                            8.7, 
+                            9.04
+                        ], 
+                        [
+                            "true", 
+                            9.04, 
+                            9.24
+                        ]
+                    ], 
+                    "transcript": "bullshit means someone's telling you something that you think is not true "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "someone's", 
+                            5.34, 
+                            6.18
+                        ], 
+                        [
+                            "telling", 
+                            6.51, 
+                            6.91
+                        ], 
+                        [
+                            "you", 
+                            6.91, 
+                            7.11
+                        ], 
+                        [
+                            "something", 
+                            7.11, 
+                            7.59
+                        ], 
+                        [
+                            "that", 
+                            7.59, 
+                            7.76
+                        ], 
+                        [
+                            "you", 
+                            7.76, 
+                            8.0
+                        ], 
+                        [
+                            "think", 
+                            8.0, 
+                            8.41
+                        ], 
+                        [
+                            "is", 
+                            8.44, 
+                            8.7
+                        ], 
+                        [
+                            "not", 
+                            8.7, 
+                            9.04
+                        ], 
+                        [
+                            "true", 
+                            9.04, 
+                            9.3
+                        ]
+                    ], 
+                    "transcript": "bullshit means someone's telling you something that you think is not true "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "someone's", 
+                            5.34, 
+                            6.18
+                        ], 
+                        [
+                            "telling", 
+                            6.51, 
+                            6.91
+                        ], 
+                        [
+                            "you", 
+                            6.91, 
+                            7.11
+                        ], 
+                        [
+                            "something", 
+                            7.11, 
+                            7.59
+                        ], 
+                        [
+                            "that", 
+                            7.59, 
+                            7.76
+                        ], 
+                        [
+                            "you", 
+                            7.76, 
+                            8.0
+                        ], 
+                        [
+                            "think", 
+                            8.0, 
+                            8.41
+                        ], 
+                        [
+                            "is", 
+                            8.44, 
+                            8.7
+                        ], 
+                        [
+                            "not", 
+                            8.7, 
+                            9.04
+                        ], 
+                        [
+                            "true", 
+                            9.04, 
+                            9.38
+                        ]
+                    ], 
+                    "transcript": "bullshit means someone's telling you something that you think is not true "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "someone's", 
+                            5.34, 
+                            6.18
+                        ], 
+                        [
+                            "telling", 
+                            6.51, 
+                            6.91
+                        ], 
+                        [
+                            "you", 
+                            6.91, 
+                            7.11
+                        ], 
+                        [
+                            "something", 
+                            7.11, 
+                            7.59
+                        ], 
+                        [
+                            "that", 
+                            7.59, 
+                            7.76
+                        ], 
+                        [
+                            "you", 
+                            7.76, 
+                            8.0
+                        ], 
+                        [
+                            "think", 
+                            8.0, 
+                            8.41
+                        ], 
+                        [
+                            "is", 
+                            8.44, 
+                            8.7
+                        ], 
+                        [
+                            "not", 
+                            8.7, 
+                            9.04
+                        ], 
+                        [
+                            "true", 
+                            9.04, 
+                            9.41
+                        ]
+                    ], 
+                    "transcript": "bullshit means someone's telling you something that you think is not true "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 2, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.915, 
+                    "timestamps": [
+                        [
+                            "bullshit", 
+                            3.99, 
+                            4.59
+                        ], 
+                        [
+                            "means", 
+                            4.59, 
+                            5.2
+                        ], 
+                        [
+                            "someone's", 
+                            5.34, 
+                            6.18
+                        ], 
+                        [
+                            "telling", 
+                            6.51, 
+                            6.91
+                        ], 
+                        [
+                            "you", 
+                            6.91, 
+                            7.11
+                        ], 
+                        [
+                            "something", 
+                            7.11, 
+                            7.59
+                        ], 
+                        [
+                            "that", 
+                            7.59, 
+                            7.76
+                        ], 
+                        [
+                            "you", 
+                            7.76, 
+                            8.0
+                        ], 
+                        [
+                            "think", 
+                            8.0, 
+                            8.41
+                        ], 
+                        [
+                            "is", 
+                            8.44, 
+                            8.7
+                        ], 
+                        [
+                            "not", 
+                            8.7, 
+                            9.04
+                        ], 
+                        [
+                            "true", 
+                            9.04, 
+                            9.41
+                        ]
+                    ], 
+                    "transcript": "bullshit means someone's telling you something that you think is not true ", 
+                    "word_confidence": [
+                        [
+                            "bullshit", 
+                            0.339
+                        ], 
+                        [
+                            "means", 
+                            0.994
+                        ], 
+                        [
+                            "someone's", 
+                            1.0
+                        ], 
+                        [
+                            "telling", 
+                            1.0
+                        ], 
+                        [
+                            "you", 
+                            1.0
+                        ], 
+                        [
+                            "something", 
+                            1.0
+                        ], 
+                        [
+                            "that", 
+                            1.0
+                        ], 
+                        [
+                            "you", 
+                            0.949
+                        ], 
+                        [
+                            "think", 
+                            0.994
+                        ], 
+                        [
+                            "is", 
+                            1.0
+                        ], 
+                        [
+                            "not", 
+                            1.0
+                        ], 
+                        [
+                            "true", 
+                            0.992
+                        ]
+                    ]
+                }, 
+                {
+                    "transcript": "bull shit means someone's telling you something that you think is not true "
+                }, 
+                {
+                    "transcript": "both should means someone's telling you something that you think is not true "
+                }
+            ], 
+            "final": true
+        }
+    ]
+}

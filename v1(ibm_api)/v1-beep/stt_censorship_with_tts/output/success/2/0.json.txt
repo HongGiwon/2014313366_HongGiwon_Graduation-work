@@ -1,0 +1,1491 @@
+{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "may", 
+                            0.03, 
+                            0.24
+                        ]
+                    ], 
+                    "transcript": "may "
+                }
+            ], 
+            "final": false
+        }
+    ], 
+    "warnings": [
+        "Unknown arguments: continuous."
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "make", 
+                            0.03, 
+                            0.47
+                        ], 
+                        [
+                            "a", 
+                            0.47, 
+                            0.51
+                        ]
+                    ], 
+                    "transcript": "make a "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "make", 
+                            0.03, 
+                            0.39
+                        ], 
+                        [
+                            "games", 
+                            0.39, 
+                            0.77
+                        ]
+                    ], 
+                    "transcript": "make games "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "make", 
+                            0.03, 
+                            0.45
+                        ], 
+                        [
+                            "it", 
+                            0.45, 
+                            0.56
+                        ], 
+                        [
+                            "a", 
+                            0.56, 
+                            0.69
+                        ], 
+                        [
+                            "very", 
+                            0.69, 
+                            0.95
+                        ]
+                    ], 
+                    "transcript": "make it a very "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "make", 
+                            0.03, 
+                            0.39
+                        ], 
+                        [
+                            "games", 
+                            0.39, 
+                            0.77
+                        ], 
+                        [
+                            "there", 
+                            0.77, 
+                            1.11
+                        ]
+                    ], 
+                    "transcript": "make games there "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "make", 
+                            0.03, 
+                            0.39
+                        ], 
+                        [
+                            "games", 
+                            0.39, 
+                            0.77
+                        ], 
+                        [
+                            "there", 
+                            0.77, 
+                            1.11
+                        ], 
+                        [
+                            "yeah", 
+                            1.14, 
+                            1.45
+                        ]
+                    ], 
+                    "transcript": "make games there yeah "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "make", 
+                            0.03, 
+                            0.39
+                        ], 
+                        [
+                            "games", 
+                            0.39, 
+                            0.77
+                        ], 
+                        [
+                            "there", 
+                            0.77, 
+                            1.11
+                        ], 
+                        [
+                            "yeah", 
+                            1.14, 
+                            1.41
+                        ]
+                    ], 
+                    "transcript": "make games there yeah "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "make", 
+                            0.03, 
+                            0.39
+                        ], 
+                        [
+                            "games", 
+                            0.39, 
+                            0.77
+                        ], 
+                        [
+                            "that", 
+                            0.77, 
+                            1.13
+                        ], 
+                        [
+                            "they", 
+                            1.13, 
+                            1.23
+                        ], 
+                        [
+                            "are", 
+                            1.23, 
+                            1.47
+                        ], 
+                        [
+                            "gone", 
+                            1.53, 
+                            1.87
+                        ]
+                    ], 
+                    "transcript": "make games that they are gone "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "make", 
+                            0.03, 
+                            0.39
+                        ], 
+                        [
+                            "games", 
+                            0.39, 
+                            0.77
+                        ], 
+                        [
+                            "there", 
+                            0.77, 
+                            1.11
+                        ], 
+                        [
+                            "are", 
+                            1.53, 
+                            1.84
+                        ], 
+                        [
+                            "you", 
+                            1.9, 
+                            2.19
+                        ]
+                    ], 
+                    "transcript": "make games there are you "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "make", 
+                            0.03, 
+                            0.39
+                        ], 
+                        [
+                            "games", 
+                            0.39, 
+                            0.77
+                        ], 
+                        [
+                            "there", 
+                            0.77, 
+                            1.11
+                        ], 
+                        [
+                            "are", 
+                            1.53, 
+                            1.84
+                        ], 
+                        [
+                            "you", 
+                            1.9, 
+                            2.18
+                        ]
+                    ], 
+                    "transcript": "make games there are you "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "make", 
+                            0.03, 
+                            0.39
+                        ], 
+                        [
+                            "games", 
+                            0.39, 
+                            0.77
+                        ], 
+                        [
+                            "there", 
+                            0.77, 
+                            1.11
+                        ], 
+                        [
+                            "yeah", 
+                            1.14, 
+                            1.41
+                        ], 
+                        [
+                            "on", 
+                            1.55, 
+                            1.86
+                        ], 
+                        [
+                            "you", 
+                            1.9, 
+                            2.13
+                        ], 
+                        [
+                            "too", 
+                            2.13, 
+                            2.64
+                        ]
+                    ], 
+                    "transcript": "make games there yeah on you too "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "make", 
+                            0.03, 
+                            0.39
+                        ], 
+                        [
+                            "games", 
+                            0.39, 
+                            0.77
+                        ], 
+                        [
+                            "there", 
+                            0.77, 
+                            1.11
+                        ], 
+                        [
+                            "yeah", 
+                            1.14, 
+                            1.41
+                        ], 
+                        [
+                            "on", 
+                            1.55, 
+                            1.86
+                        ], 
+                        [
+                            "you", 
+                            1.9, 
+                            2.13
+                        ], 
+                        [
+                            "too", 
+                            2.13, 
+                            2.65
+                        ]
+                    ], 
+                    "transcript": "make games there yeah on you too "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "make", 
+                            0.03, 
+                            0.39
+                        ], 
+                        [
+                            "games", 
+                            0.39, 
+                            0.77
+                        ], 
+                        [
+                            "there", 
+                            0.77, 
+                            1.11
+                        ], 
+                        [
+                            "Gaston", 
+                            1.14, 
+                            1.86
+                        ], 
+                        [
+                            "you", 
+                            1.86, 
+                            2.13
+                        ], 
+                        [
+                            "to", 
+                            2.13, 
+                            2.65
+                        ], 
+                        [
+                            "a", 
+                            2.89, 
+                            3.0
+                        ], 
+                        [
+                            "job", 
+                            3.0, 
+                            3.17
+                        ]
+                    ], 
+                    "transcript": "make games there Gaston you to a job "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "make", 
+                            0.03, 
+                            0.39
+                        ], 
+                        [
+                            "games", 
+                            0.39, 
+                            0.77
+                        ], 
+                        [
+                            "there", 
+                            0.77, 
+                            1.11
+                        ], 
+                        [
+                            "Gaston", 
+                            1.14, 
+                            1.86
+                        ], 
+                        [
+                            "you", 
+                            1.86, 
+                            2.13
+                        ], 
+                        [
+                            "to", 
+                            2.13, 
+                            2.65
+                        ], 
+                        [
+                            "a", 
+                            2.89, 
+                            3.01
+                        ], 
+                        [
+                            "guy", 
+                            3.01, 
+                            3.43
+                        ]
+                    ], 
+                    "transcript": "make games there Gaston you to a guy "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "make", 
+                            0.03, 
+                            0.39
+                        ], 
+                        [
+                            "games", 
+                            0.39, 
+                            0.77
+                        ], 
+                        [
+                            "there", 
+                            0.77, 
+                            1.11
+                        ], 
+                        [
+                            "Gaston", 
+                            1.14, 
+                            1.86
+                        ], 
+                        [
+                            "you", 
+                            1.86, 
+                            2.13
+                        ], 
+                        [
+                            "to", 
+                            2.13, 
+                            2.65
+                        ], 
+                        [
+                            "a", 
+                            2.89, 
+                            3.01
+                        ], 
+                        [
+                            "guy", 
+                            3.01, 
+                            3.44
+                        ], 
+                        [
+                            "and", 
+                            3.44, 
+                            3.67
+                        ]
+                    ], 
+                    "transcript": "make games there Gaston you to a guy and "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "make", 
+                            0.03, 
+                            0.39
+                        ], 
+                        [
+                            "games", 
+                            0.39, 
+                            0.77
+                        ], 
+                        [
+                            "there", 
+                            0.77, 
+                            1.11
+                        ], 
+                        [
+                            "Gaston", 
+                            1.14, 
+                            1.86
+                        ], 
+                        [
+                            "you", 
+                            1.86, 
+                            2.13
+                        ], 
+                        [
+                            "to", 
+                            2.13, 
+                            2.65
+                        ], 
+                        [
+                            "a", 
+                            2.89, 
+                            3.01
+                        ], 
+                        [
+                            "guy", 
+                            3.01, 
+                            3.44
+                        ], 
+                        [
+                            "and", 
+                            3.44, 
+                            3.74
+                        ], 
+                        [
+                            "fell", 
+                            3.74, 
+                            3.93
+                        ]
+                    ], 
+                    "transcript": "make games there Gaston you to a guy and fell "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "make", 
+                            0.03, 
+                            0.39
+                        ], 
+                        [
+                            "games", 
+                            0.39, 
+                            0.77
+                        ], 
+                        [
+                            "there", 
+                            0.77, 
+                            1.11
+                        ], 
+                        [
+                            "Gaston", 
+                            1.14, 
+                            1.86
+                        ], 
+                        [
+                            "you", 
+                            1.86, 
+                            2.13
+                        ], 
+                        [
+                            "to", 
+                            2.13, 
+                            2.65
+                        ], 
+                        [
+                            "a", 
+                            2.89, 
+                            3.01
+                        ], 
+                        [
+                            "guy", 
+                            3.01, 
+                            3.44
+                        ], 
+                        [
+                            "and", 
+                            3.44, 
+                            3.74
+                        ], 
+                        [
+                            "fat", 
+                            3.74, 
+                            4.17
+                        ]
+                    ], 
+                    "transcript": "make games there Gaston you to a guy and fat "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "make", 
+                            0.03, 
+                            0.39
+                        ], 
+                        [
+                            "games", 
+                            0.39, 
+                            0.77
+                        ], 
+                        [
+                            "there", 
+                            0.77, 
+                            1.11
+                        ], 
+                        [
+                            "Gaston", 
+                            1.14, 
+                            1.86
+                        ], 
+                        [
+                            "you", 
+                            1.86, 
+                            2.13
+                        ], 
+                        [
+                            "to", 
+                            2.13, 
+                            2.65
+                        ], 
+                        [
+                            "a", 
+                            2.89, 
+                            3.01
+                        ], 
+                        [
+                            "guy", 
+                            3.01, 
+                            3.44
+                        ], 
+                        [
+                            "and", 
+                            3.44, 
+                            3.74
+                        ], 
+                        [
+                            "fat", 
+                            3.74, 
+                            4.2
+                        ], 
+                        [
+                            "yeah", 
+                            4.2, 
+                            4.43
+                        ]
+                    ], 
+                    "transcript": "make games there Gaston you to a guy and fat yeah "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "make", 
+                            0.03, 
+                            0.39
+                        ], 
+                        [
+                            "games", 
+                            0.39, 
+                            0.77
+                        ], 
+                        [
+                            "there", 
+                            0.77, 
+                            1.11
+                        ], 
+                        [
+                            "Gaston", 
+                            1.14, 
+                            1.86
+                        ], 
+                        [
+                            "you", 
+                            1.86, 
+                            2.13
+                        ], 
+                        [
+                            "to", 
+                            2.13, 
+                            2.65
+                        ], 
+                        [
+                            "a", 
+                            2.89, 
+                            3.0
+                        ], 
+                        [
+                            "giant", 
+                            3.0, 
+                            3.48
+                        ], 
+                        [
+                            "and", 
+                            3.48, 
+                            3.74
+                        ], 
+                        [
+                            "****", 
+                            3.74, 
+                            4.52
+                        ]
+                    ], 
+                    "transcript": "make games there Gaston you to a giant and **** "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "make", 
+                            0.03, 
+                            0.39
+                        ], 
+                        [
+                            "games", 
+                            0.39, 
+                            0.77
+                        ], 
+                        [
+                            "there", 
+                            0.77, 
+                            1.11
+                        ], 
+                        [
+                            "Gaston", 
+                            1.14, 
+                            1.86
+                        ], 
+                        [
+                            "you", 
+                            1.86, 
+                            2.13
+                        ], 
+                        [
+                            "to", 
+                            2.13, 
+                            2.65
+                        ], 
+                        [
+                            "a", 
+                            2.89, 
+                            3.0
+                        ], 
+                        [
+                            "giant", 
+                            3.0, 
+                            3.48
+                        ], 
+                        [
+                            "and", 
+                            3.48, 
+                            3.74
+                        ], 
+                        [
+                            "****", 
+                            3.74, 
+                            4.52
+                        ], 
+                        [
+                            "is", 
+                            4.55, 
+                            4.93
+                        ]
+                    ], 
+                    "transcript": "make games there Gaston you to a giant and **** is "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "make", 
+                            0.03, 
+                            0.39
+                        ], 
+                        [
+                            "games", 
+                            0.39, 
+                            0.77
+                        ], 
+                        [
+                            "there", 
+                            0.77, 
+                            1.11
+                        ], 
+                        [
+                            "Gaston", 
+                            1.14, 
+                            1.86
+                        ], 
+                        [
+                            "you", 
+                            1.86, 
+                            2.13
+                        ], 
+                        [
+                            "to", 
+                            2.13, 
+                            2.65
+                        ], 
+                        [
+                            "a", 
+                            2.89, 
+                            3.0
+                        ], 
+                        [
+                            "giant", 
+                            3.0, 
+                            3.48
+                        ], 
+                        [
+                            "and", 
+                            3.48, 
+                            3.74
+                        ], 
+                        [
+                            "****", 
+                            3.74, 
+                            4.52
+                        ], 
+                        [
+                            "is", 
+                            4.55, 
+                            4.93
+                        ], 
+                        [
+                            "this", 
+                            4.93, 
+                            5.17
+                        ]
+                    ], 
+                    "transcript": "make games there Gaston you to a giant and **** is this "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "make", 
+                            0.03, 
+                            0.39
+                        ], 
+                        [
+                            "games", 
+                            0.39, 
+                            0.77
+                        ], 
+                        [
+                            "there", 
+                            0.77, 
+                            1.11
+                        ], 
+                        [
+                            "Gaston", 
+                            1.14, 
+                            1.86
+                        ], 
+                        [
+                            "you", 
+                            1.86, 
+                            2.13
+                        ], 
+                        [
+                            "to", 
+                            2.13, 
+                            2.65
+                        ], 
+                        [
+                            "a", 
+                            2.89, 
+                            3.0
+                        ], 
+                        [
+                            "giant", 
+                            3.0, 
+                            3.48
+                        ], 
+                        [
+                            "and", 
+                            3.48, 
+                            3.74
+                        ], 
+                        [
+                            "****", 
+                            3.74, 
+                            4.52
+                        ], 
+                        [
+                            "is", 
+                            4.55, 
+                            4.93
+                        ], 
+                        [
+                            "this", 
+                            4.93, 
+                            5.2
+                        ], 
+                        [
+                            "do", 
+                            5.2, 
+                            5.43
+                        ]
+                    ], 
+                    "transcript": "make games there Gaston you to a giant and **** is this do "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "make", 
+                            0.03, 
+                            0.39
+                        ], 
+                        [
+                            "games", 
+                            0.39, 
+                            0.77
+                        ], 
+                        [
+                            "there", 
+                            0.77, 
+                            1.11
+                        ], 
+                        [
+                            "Gaston", 
+                            1.14, 
+                            1.86
+                        ], 
+                        [
+                            "you", 
+                            1.86, 
+                            2.13
+                        ], 
+                        [
+                            "to", 
+                            2.13, 
+                            2.65
+                        ], 
+                        [
+                            "a", 
+                            2.89, 
+                            3.0
+                        ], 
+                        [
+                            "giant", 
+                            3.0, 
+                            3.48
+                        ], 
+                        [
+                            "and", 
+                            3.48, 
+                            3.74
+                        ], 
+                        [
+                            "****", 
+                            3.74, 
+                            4.52
+                        ], 
+                        [
+                            "is", 
+                            4.55, 
+                            4.93
+                        ], 
+                        [
+                            "this", 
+                            4.93, 
+                            5.2
+                        ], 
+                        [
+                            "dude", 
+                            5.2, 
+                            5.67
+                        ]
+                    ], 
+                    "transcript": "make games there Gaston you to a giant and **** is this dude "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "make", 
+                            0.03, 
+                            0.39
+                        ], 
+                        [
+                            "games", 
+                            0.39, 
+                            0.77
+                        ], 
+                        [
+                            "there", 
+                            0.77, 
+                            1.11
+                        ], 
+                        [
+                            "Gaston", 
+                            1.14, 
+                            1.86
+                        ], 
+                        [
+                            "you", 
+                            1.86, 
+                            2.13
+                        ], 
+                        [
+                            "to", 
+                            2.13, 
+                            2.65
+                        ], 
+                        [
+                            "a", 
+                            2.89, 
+                            3.0
+                        ], 
+                        [
+                            "giant", 
+                            3.0, 
+                            3.48
+                        ], 
+                        [
+                            "and", 
+                            3.48, 
+                            3.74
+                        ], 
+                        [
+                            "****", 
+                            3.74, 
+                            4.52
+                        ], 
+                        [
+                            "is", 
+                            4.55, 
+                            4.93
+                        ], 
+                        [
+                            "this", 
+                            4.93, 
+                            5.2
+                        ], 
+                        [
+                            "dude", 
+                            5.2, 
+                            5.68
+                        ], 
+                        [
+                            "shut", 
+                            5.68, 
+                            5.93
+                        ]
+                    ], 
+                    "transcript": "make games there Gaston you to a giant and **** is this dude shut "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "make", 
+                            0.03, 
+                            0.39
+                        ], 
+                        [
+                            "games", 
+                            0.39, 
+                            0.77
+                        ], 
+                        [
+                            "there", 
+                            0.77, 
+                            1.11
+                        ], 
+                        [
+                            "Gaston", 
+                            1.14, 
+                            1.86
+                        ], 
+                        [
+                            "you", 
+                            1.86, 
+                            2.13
+                        ], 
+                        [
+                            "to", 
+                            2.13, 
+                            2.65
+                        ], 
+                        [
+                            "a", 
+                            2.89, 
+                            3.0
+                        ], 
+                        [
+                            "giant", 
+                            3.0, 
+                            3.48
+                        ], 
+                        [
+                            "and", 
+                            3.48, 
+                            3.74
+                        ], 
+                        [
+                            "****", 
+                            3.74, 
+                            4.52
+                        ], 
+                        [
+                            "is", 
+                            4.55, 
+                            4.93
+                        ], 
+                        [
+                            "this", 
+                            4.93, 
+                            5.2
+                        ], 
+                        [
+                            "dude", 
+                            5.2, 
+                            5.68
+                        ], 
+                        [
+                            "shut", 
+                            5.68, 
+                            5.95
+                        ], 
+                        [
+                            "up", 
+                            5.95, 
+                            6.17
+                        ]
+                    ], 
+                    "transcript": "make games there Gaston you to a giant and **** is this dude shut up "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.513, 
+                    "timestamps": [
+                        [
+                            "make", 
+                            0.03, 
+                            0.39
+                        ], 
+                        [
+                            "games", 
+                            0.39, 
+                            0.77
+                        ], 
+                        [
+                            "there", 
+                            0.77, 
+                            1.11
+                        ], 
+                        [
+                            "yeah", 
+                            1.14, 
+                            1.41
+                        ], 
+                        [
+                            "are", 
+                            1.53, 
+                            1.84
+                        ], 
+                        [
+                            "you", 
+                            1.9, 
+                            2.13
+                        ], 
+                        [
+                            "to", 
+                            2.13, 
+                            2.65
+                        ], 
+                        [
+                            "a", 
+                            2.89, 
+                            3.0
+                        ], 
+                        [
+                            "giant", 
+                            3.0, 
+                            3.48
+                        ], 
+                        [
+                            "and", 
+                            3.48, 
+                            3.74
+                        ], 
+                        [
+                            "****", 
+                            3.74, 
+                            4.52
+                        ], 
+                        [
+                            "is", 
+                            4.55, 
+                            4.93
+                        ], 
+                        [
+                            "this", 
+                            4.93, 
+                            5.2
+                        ], 
+                        [
+                            "dude", 
+                            5.2, 
+                            5.68
+                        ], 
+                        [
+                            "shut", 
+                            5.68, 
+                            5.95
+                        ], 
+                        [
+                            "up", 
+                            5.95, 
+                            6.21
+                        ]
+                    ], 
+                    "transcript": "make games there yeah are you to a giant and **** is this dude shut up ", 
+                    "word_confidence": [
+                        [
+                            "make", 
+                            0.351
+                        ], 
+                        [
+                            "games", 
+                            0.731
+                        ], 
+                        [
+                            "there", 
+                            0.602
+                        ], 
+                        [
+                            "yeah", 
+                            0.427
+                        ], 
+                        [
+                            "are", 
+                            0.187
+                        ], 
+                        [
+                            "you", 
+                            0.802
+                        ], 
+                        [
+                            "to", 
+                            0.908
+                        ], 
+                        [
+                            "a", 
+                            0.844
+                        ], 
+                        [
+                            "giant", 
+                            0.256
+                        ], 
+                        [
+                            "and", 
+                            0.895
+                        ], 
+                        [
+                            "****", 
+                            0.315
+                        ], 
+                        [
+                            "is", 
+                            0.56
+                        ], 
+                        [
+                            "this", 
+                            0.346
+                        ], 
+                        [
+                            "dude", 
+                            0.383
+                        ], 
+                        [
+                            "shut", 
+                            0.668
+                        ], 
+                        [
+                            "up", 
+                            0.462
+                        ]
+                    ]
+                }, 
+                {
+                    "transcript": "make games there yeah on you to a giant and **** is this dude shut up "
+                }, 
+                {
+                    "transcript": "make games there yeah are you to a guy and **** is this dude shut up "
+                }
+            ], 
+            "final": true
+        }
+    ]
+}
