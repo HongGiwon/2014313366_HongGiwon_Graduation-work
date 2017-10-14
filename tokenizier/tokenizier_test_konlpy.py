@@ -1,12 +1,24 @@
 import codecs
+import pickle
 from konlpy.tag import Kkma, Twitter
 
-tmp = Twitter().pos("프로젝트에 참여해서 관련 문서에 기여의 손길을 보내주세요!")
+input_dump = codecs.open("pnamu_001.txt", 'r', "utf-8")
+tokenized_output = open("tnamu_001.txt", 'wb')
 
+con = input("입력 : ")
+while (con == 'y') :
 
-input_dump = codecs.open("namu_001.txt", 'r', "utf-8")
+	dump_line = input_dump.readline()
+	if (dump_line == "\n") : 
+		continue
 
-dump_line = input_dump.readline()
-print(dump_line)
+	tmp = Twitter().pos(dump_line)
+	if (len(tmp) == 0) :
+		continue
+	
+	pickle.dump(tmp,tokenized_output)
+
+	con = input("입력 : ")
 
 input_dump.close()
+tokenized_output.close()
