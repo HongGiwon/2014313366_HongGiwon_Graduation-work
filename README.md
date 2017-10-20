@@ -8,7 +8,7 @@
 1. parser로 dump json -> txt
 2. editplus로 html 태그 제거
 3. editplus로 리다이렉트 상위 문서 제거
-4. refine.java로 특수문자 제거
+4. refine.java로 특수문자 제거(정규화 기반)
 5. editplus [0-99][.] 제거
 6. 문장단위 구분
 7. 토크나이징
