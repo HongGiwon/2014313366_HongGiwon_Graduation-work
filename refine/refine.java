@@ -1,4 +1,4 @@
-//  ref : https://github.com/MerHS/biryo 
+
 import java.io.*;
 import java.util.StringTokenizer;
 import java.util.regex.Matcher;
@@ -13,7 +13,7 @@ public class refine {
     {
       try{
     
-      BufferedReader in = new BufferedReader(new InputStreamReader(new FileInputStream("Cnamu_00"+i+".txt"),"utf-8"));
+      BufferedReader in = new BufferedReader(new InputStreamReader(new FileInputStream("rnamu_00"+i+".txt"),"utf-8"));
       BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream("namu_00"+i+".txt"),"utf-8"));
       String s,s_r;
      
@@ -48,7 +48,7 @@ public class refine {
       
       str_2 = str.replaceAll("([\\p{Alnum}]+)//([A-Za-z0-9.\\-&/%=?:@#$(),.+;~\\_]+)", " ");
       str_2 = str_2.replaceAll("([\\p{Alnum}]+)://([A-Za-z0-9.\\-&/%=?:@#$(),.+;~\\_]+)", " ");
-      str_2 = str_2.replaceAll("[〈〉=#\\$%&\\(\\)\\{\\}\\@\\`\\*:\\+\\;\\-\\.<>,\\^~|'\\[\\]\\|\\\\\"《》/●→]", " ");
+      str_2 = str_2.replaceAll("[〈〉=#\\$%&\\(\\)\\{\\}\\@\\`\\*:\\+\\;\\-\\<>,\\^~|'\\[\\]\\|\\\\\"《》/●→]", " ");
       str_2 = str_2.replaceAll("url|INDEX|close|ref", " ");
       str_2 = str_2.replaceAll("(open+[0-99]+[0-99])|(open+[0-99])"," ");
       str_2 = str_2.replaceAll("(h+[0-99]+[0-99])|(h+[0-99])"," ");
