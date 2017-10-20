@@ -3,7 +3,7 @@
 import pickle
 import gensim
 
-tokenized_output = open("tmp.txt", 'rb')
+tokenized_output = open("toknamu_001.txt", 'rb')
 
 corpus = []
 
@@ -13,6 +13,7 @@ try :
 
 		tmplist = pickle.load(tokenized_output)
 		corpus.append(tmplist)
+		print (tmplist)
 
 except EOFError :
 	print ("EOF")
@@ -28,14 +29,14 @@ config = {
 }
 
 #모델 생성
-model = gensim.models.Word2Vec(**config)
+#model = gensim.models.Word2Vec(**config)
 
 #모델 사전 생성 및 학습
-model.build_vocab(corpus)
-model.train(corpus, total_examples=model.corpus_count, epochs=model.iter)
+#model.build_vocab(corpus)
+#model.train(corpus, total_examples=model.corpus_count, epochs=model.iter)
 
 #모델 저장
-model.save('model')
+#model.save('model')
 
 #두 단어의 유사성 예시
-print(model.similarity('카메라/Noun', '유튜브/Noun'))
+#print(model.similarity('카메라/Noun', '유튜브/Noun'))
