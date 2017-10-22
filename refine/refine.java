@@ -9,12 +9,12 @@ public class refine {
   public static void main(String args[])
   {
     int i = 1;
-    for(i=1;i<2;i++)
+    for(i=10;i<21;i++)
     {
       try{
     
-      BufferedReader in = new BufferedReader(new InputStreamReader(new FileInputStream("rnamu_00"+i+".txt"),"utf-8"));
-      BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream("namu_00"+i+".txt"),"utf-8"));
+      BufferedReader in = new BufferedReader(new InputStreamReader(new FileInputStream("namu_0"+i+".txt"),"utf-8"));
+      BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream("pnamu_0"+i+".txt"),"utf-8"));
       String s,s_r;
      
       while((s = in.readLine()) != null){
