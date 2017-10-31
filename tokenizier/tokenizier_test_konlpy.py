@@ -40,4 +40,3 @@ for i in range(1,21) :
 	tokenized_output = open("toknamu_" + str(i) + ".txt", 'wb')
 	pickle.dump(corpus,tokenized_output)
 	tokenized_output.close()
-

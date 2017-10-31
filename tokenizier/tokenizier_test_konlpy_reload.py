@@ -29,8 +29,8 @@ config = {
     'size': 300,
     'sg': 1,
     'batch_words': 10000,
-    'iter': 10,
-    'workers': multiprocessing.cpu_count()
+    'iter': 15,
+    'workers': multiprocessing.cpu_count() - 1
 }
 
 #모델 생성
