@@ -12,6 +12,10 @@ print(model.most_similar(positive=["지구/Noun"], negative=["생명/Noun"], top
 
 print(model.most_similar(positive=["사람/Noun"], negative=["지능/Noun"], topn=5))
 
-print(model.most_similar(positive=["개새끼/Noun", "씨발/Noun"], topn=5))
+print(model.most_similar(positive=["황제/Noun", "여자/Noun"], negative=["남자/Noun"], topn=5))
+
+print(model.most_similar(positive=["개새끼/Noun", "씨발/Noun"], topn=30))
+
+#print(model.similarity('개새끼/Noun', '머머리/Noun'))
 
 #print(model.most_similar_cosmul(positive=["개새끼/Noun"], topn=10))
