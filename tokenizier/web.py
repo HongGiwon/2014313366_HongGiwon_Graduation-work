@@ -10,51 +10,56 @@ def string_re(inputstring):
     return ("".join(m))
 
 words = open("badwords.txt","r").read().splitlines()
-count = 78
+count = 0
 
 for word in words :
-    param = urllib.parse.quote(word).replace("%", ".")
 
-    urlfront = 'http://search.dcinside.com'
-    url = 'http://search.dcinside.com/post/q/' + param
-    urlback = "/q/" + param
-    #print(url)
+    try :
+        param = urllib.parse.quote(word).replace("%", ".")
 
-    data = urllib.request.urlopen(url).read()
+        urlfront = 'http://search.dcinside.com'
+        url = 'http://search.dcinside.com/post/q/' + param
+        urlback = "/q/" + param
+        #print(url)
 
-    soup = BeautifulSoup(data, "lxml")
+        data = urllib.request.urlopen(url).read()
 
-    link = soup.find_all("div", {"class": "thumb_txt"})
+        soup = BeautifulSoup(data, "lxml")
 
-    link2 = soup.find('div', {"id": "dgn_btn_paging"}).findAll('a', href=True)
-    #print(link2[-1]["href"])
-    #print(link2[-1]["href"][8:10].replace("/", ""))
-    lastPage = int(link2[-1]["href"][8:10].replace("/", ""))
+        link = soup.find_all("div", {"class": "thumb_txt"})
 
-    print("word: " + word)
-    print("pages: 1 ~ " + str(lastPage))
+        link2 = soup.find('div', {"id": "dgn_btn_paging"}).findAll('a', href=True)
+        #print(link2[-1]["href"])
+        #print(link2[-1]["href"][8:10].replace("/", ""))
+        lastPage = int(link2[-1]["href"][8:10].replace("/", ""))
 
-    count = count + 1
-    crawlingResult = open("crawlingResult" + str(count) + ".txt", "w", encoding='UTF8')
+        print("word: " + word)
+        print("pages: 1 ~ " + str(lastPage))
 
-    for i in range(1, lastPage + 1):
-        pageUrl = urlfront+"/post/p/" + str(i) + urlback
-        print(str(i) + ": " + pageUrl)
-        pageData = urllib.request.urlopen(pageUrl).read()
-        link3 = BeautifulSoup(pageData, "lxml").find_all("div", {"class": "thumb_txt"})
-        for m2 in link3:
-            #get title
-            title = m2.a.get_text()
-            idx = title.rfind(" - ")
-            title = title[0:idx]
-            #print(title)
-            crawlingResult.write(string_re(title) + " ")
+        count = count + 1
+        crawlingResult = open("crawlingResult" + str(count) + ".txt", "w", encoding='UTF8')
 
-            #get contents
-            context = m2.p.getText()
-            idx = context.rfind(" - ")
-            context = context.replace(" - dc official App", "")
-            #print(context.strip())
-            crawlingResult.write(string_re(context).strip() + "\n")
+        for i in range(1, lastPage + 1):
+            pageUrl = urlfront+"/post/p/" + str(i) + urlback
+            print(str(i) + ": " + pageUrl)
+            pageData = urllib.request.urlopen(pageUrl).read()
+            link3 = BeautifulSoup(pageData, "lxml").find_all("div", {"class": "thumb_txt"})
+            for m2 in link3:
+                #get title
+                title = m2.a.get_text()
+                idx = title.rfind(" - ")
+                title = title[0:idx]
+                #print(title)
+                crawlingResult.write(string_re(title) + " ")
 
-    crawlingResult.close()
+                #get contents
+                context = m2.p.getText()
+                idx = context.rfind(" - ")
+                context = context.replace(" - dc official App", "")
+                #print(context.strip())
+                crawlingResult.write(string_re(context).strip() + "\n")
+
+        crawlingResult.close()
+
+    except AttributeError:
+        print ("에러가 났네요")
