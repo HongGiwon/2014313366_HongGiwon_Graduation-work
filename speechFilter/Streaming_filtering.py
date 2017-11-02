@@ -22,7 +22,6 @@ import argparse
 import io
 from pydub import AudioSegment
 
-import pickle
 import gensim
 from sklearn.metrics.pairwise import cosine_similarity
 from konlpy.tag import Twitter
@@ -160,7 +159,7 @@ class SoundFilter:
                             if (model_words_vec.vocab[token_of_word].count < 1000) :
                                 print (" 학습이 부족한 단어 발견 : " + token_of_word)
                                 poten_learn(token_of_word.split("/")[0])
-                            if (cosine_similarity([bad_word_vec], [model_words_vec[token_of_word]])[0][0] > 0.535) :
+                            if (cosine_similarity([bad_word_vec], [model_words_vec[token_of_word]])[0][0] > 0.6) :
                                 print (" 욕설 발견 : " + token_of_word)
                                 b_word_arr.append(word)
                                 b_time_arr.append(start_time)
@@ -215,15 +214,8 @@ def loading_word2vec_model() :
     global model_words_vec
 
     model = gensim.models.Word2Vec.load('model')
-    bad_base_vec = []
-    bad_base = ["뒈지/Verb","씹새끼야/Noun","개객기/Noun","샛기/Noun","멍청이/Noun","씹/Verb","똘추새끼/Noun","개색끼/Noun","씨부럴/Noun","염병할/Exclamation","시발/Noun","개새/Noun","잡년/Noun","ㅅㅂㄴ/KoreanParticle","씹할롬/Noun","개자식/Noun","지랄/Noun","쌔끼/Noun","럴/Noun","벌놈/Noun","저능/Noun","시팔/Noun","쉐끼들/Noun","놈/Noun","간나/Noun","럴놈/Noun","염병/Noun","옘병/Noun","색휘/Noun","창놈/Noun","썅놈/Noun","씨팔/Noun","좆/Noun","썅/Noun","창년/Noun","쌍놈/Noun","니미/Noun","앰창/Noun","엠창/Noun","썅년/Noun","똘추/Noun","느금마/Noun","븅딱/Noun","개돼지/Noun","개썅놈/Noun","개새끼/Noun","씨발/Noun","존나/Noun","시벌/Noun","애미/Noun"]
-
-    for word in bad_base :
-        bad_base_vec.append(model[word])
-
-    bad_word_vec = [sum(x)/len(bad_base_vec) for x in zip(*bad_base_vec)]
-    bad_word_vec = [ x - y/5 for x,y in zip(bad_word_vec,model["ㅋㅋㅋ/KoreanParticle"])]
-    bad_word_vec = [ x + y/10 for x,y in zip(bad_word_vec,model["애미/Noun"])]
+    
+    bad_word_vec = model.bad_word_vec
 
     model_words_vec = model.wv
     del model

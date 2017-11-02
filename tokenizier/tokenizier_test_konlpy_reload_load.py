@@ -4,7 +4,7 @@ import pickle
 import gensim
 from sklearn.metrics.pairwise import cosine_similarity
 
-model = gensim.models.Word2Vec.load('model')
+model = gensim.models.Word2Vec.load('model2')
 
 #print(model.most_similar(positive=["서울/Noun", "일본/Noun"], negative=["한국/Noun"], topn=5))
 #model.wv.most_similar_cosmul
@@ -21,6 +21,8 @@ for word in bad_base :
 
 #대표 욕설 단어들의 벡터 값 합의 평균 벡터
 bad_word_vec = [sum(x)/len(bad_base_vec) for x in zip(*bad_base_vec)]
+bad_word_vec = [ x - y/5 for x,y in zip(bad_word_vec,model["ㅋㅋㅋ/KoreanParticle"])]
+bad_word_vec = [ x + y/10 for x,y in zip(bad_word_vec,model["애미/Noun"])]
 
 print(cosine_similarity([bad_word_vec], [model["씨발/Noun"]]))
 print(cosine_similarity([bad_word_vec], [model["서울/Noun"]]))
@@ -30,6 +32,31 @@ print(cosine_similarity([bad_word_vec], [model["음료수/Noun"]]))
 print(cosine_similarity([bad_word_vec], [model["애비/Noun"]]))
 print(cosine_similarity([bad_word_vec], [model["애미/Noun"]]))
 print(cosine_similarity([bad_word_vec], [model["병신/Noun"]]))
+print(cosine_similarity([bad_word_vec], [model["ㅋㅋㅋ/KoreanParticle"]]))
+print(cosine_similarity([bad_word_vec], [model["개웃/Adverb"]]))
+print(cosine_similarity([bad_word_vec], [model["니애미/Noun"]]))
+print(cosine_similarity([bad_word_vec], [model["그니까/Conjunction"]]))
+print(cosine_similarity([bad_word_vec], [model["시발/Noun"]]))
+
+
+
+
+print(model.similarity('ㅋㅋㅋ/KoreanParticle', '개웃/Adverb'))
+
+wvector = model.wv
+del model
+
+print(wvector.vocab["니애미/Noun"].count)
+print("븅신/Noun".split("/")[0])
+
+print(cosine_similarity([bad_word_vec], [wvector["븅신/Noun"]]))
+print(cosine_similarity([bad_word_vec], [wvector["씨발/Noun"]]))
+print(cosine_similarity([bad_word_vec], [wvector["서울/Noun"]]))
+print(cosine_similarity([bad_word_vec], [wvector["개새끼/Noun"]]))
+print(cosine_similarity([bad_word_vec], [wvector["앰창/Noun"]]))
+print(cosine_similarity([bad_word_vec], [wvector["음료수/Noun"]]))
+
+
 
 try :
 	print(model["ㅁㅇㅁㅇ"])
