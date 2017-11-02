@@ -22,7 +22,10 @@ import argparse
 import io
 from pydub import AudioSegment
 
-
+import pickle
+import gensim
+from sklearn.metrics.pairwise import cosine_similarity
+from konlpy.tag import Twitter
 
 
 RATE = 16000
@@ -32,6 +35,9 @@ os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = './My Project-f557b58c64ab.json'
 global frames
 frames = []
 
+def flat(content):
+    token_tmp = Twitter().pos(content)
+    return ["{}/{}".format(word, tag) for word, tag in token_tmp if (tag != "Punctuation"and tag != "Foreign")]
 
 class MicStream(object):
     def __init__(self, rate, chunk):
@@ -84,25 +90,13 @@ class MicStream(object):
 
 class SoundFilter:
     def __init__(self):
-        self.__bad_word_dic = self.load_database()
+        #self.__bad_word_dic = self.load_database()
         self.__beep_sound = AudioSegment.from_wav('./beep/censor-beep4.wav')
-
-
-    def load_database(self):
-        dic = {}
-        db = open('./badwords2.txt', 'r')
-        while True:
-            word = db.readline()
-            if word == '': break
-            word = word[:-1]
-            dic[word] = 1
-        db.close()
-        return dic
 
     def start_record(self):
         language_code = 'ko-KR'
         client = speech.SpeechClient()
-        phrases = ["머머리"]
+        phrases = ["머머리", "븅신"]
         config = types.RecognitionConfig(
             encoding=enums.RecognitionConfig.AudioEncoding.LINEAR16,
             sample_rate_hertz=RATE,
@@ -114,6 +108,8 @@ class SoundFilter:
         )
         streaming_config = types.StreamingRecognitionConfig(
             config=config)
+
+        print ("#####녹음 시작######")
 
         with MicStream(RATE, CHUNK) as stream:
             audio_generator = stream.generator()
@@ -137,6 +133,8 @@ class SoundFilter:
             self.print_results(result)
 
     def print_results(self, result):
+        global bad_word_vec
+        global model_words_vec
         print("###########################################")
         #    print(result)
         if result.is_final:
@@ -150,16 +148,27 @@ class SoundFilter:
 
                 for word_info in candResult.words:
                     word = word_info.word
-                    start_time = word_info.start_time.seconds + word_info.start_time.nanos / 1000000000
+                    start_time =  word_info.start_time.seconds + word_info.start_time.nanos / 1000000000
                     end_time = word_info.end_time.seconds + word_info.end_time.nanos / 1000000000
 
                     if speech_start_time is -1:
                         speech_start_time = start_time
 
-                    if word in self.__bad_word_dic:
-                        b_word_arr.append(word)
-                        b_time_arr.append(start_time)
-                        b_time_arr.append(end_time)
+                    tokenizied_word = flat(word)
+                    for token_of_word in tokenizied_word :
+                        try :
+                            if (model_words_vec.vocab[token_of_word].count < 1000) :
+                                print (" 학습이 부족한 단어 발견 : " + token_of_word)
+                                poten_learn(token_of_word.split("/")[0])
+                            if (cosine_similarity([bad_word_vec], [model_words_vec[token_of_word]])[0][0] > 0.535) :
+                                print (" 욕설 발견 : " + token_of_word)
+                                b_word_arr.append(word)
+                                b_time_arr.append(start_time)
+                                b_time_arr.append(end_time)
+                                break
+                        except KeyError: 
+                            print ( "학습 되지 않은 단어 발견 : " + token_of_word)
+                            poten_learn(token_of_word.split("/")[0])
 
                     print(' 단어: ' + word_info.word + ' / ' + str(
                         word_info.start_time.seconds + word_info.start_time.nanos / 1000000000) + ' / ' + str(
@@ -198,7 +207,44 @@ class SoundFilter:
         playsound("./output/change.wav")
         print("OK")
 
+bad_word_vec = []
+
+def loading_word2vec_model() :
+    print ("word2vec 모델 로딩중...")
+    global bad_word_vec
+    global model_words_vec
+
+    model = gensim.models.Word2Vec.load('model')
+    bad_base_vec = []
+    bad_base = ["뒈지/Verb","씹새끼야/Noun","개객기/Noun","샛기/Noun","멍청이/Noun","씹/Verb","똘추새끼/Noun","개색끼/Noun","씨부럴/Noun","염병할/Exclamation","시발/Noun","개새/Noun","잡년/Noun","ㅅㅂㄴ/KoreanParticle","씹할롬/Noun","개자식/Noun","지랄/Noun","쌔끼/Noun","럴/Noun","벌놈/Noun","저능/Noun","시팔/Noun","쉐끼들/Noun","놈/Noun","간나/Noun","럴놈/Noun","염병/Noun","옘병/Noun","색휘/Noun","창놈/Noun","썅놈/Noun","씨팔/Noun","좆/Noun","썅/Noun","창년/Noun","쌍놈/Noun","니미/Noun","앰창/Noun","엠창/Noun","썅년/Noun","똘추/Noun","느금마/Noun","븅딱/Noun","개돼지/Noun","개썅놈/Noun","개새끼/Noun","씨발/Noun","존나/Noun","시벌/Noun","애미/Noun"]
+
+    for word in bad_base :
+        bad_base_vec.append(model[word])
+
+    bad_word_vec = [sum(x)/len(bad_base_vec) for x in zip(*bad_base_vec)]
+    bad_word_vec = [ x - y/5 for x,y in zip(bad_word_vec,model["ㅋㅋㅋ/KoreanParticle"])]
+    bad_word_vec = [ x + y/10 for x,y in zip(bad_word_vec,model["애미/Noun"])]
+
+    model_words_vec = model.wv
+    del model
+    print("모델 로딩 완료")
+
+def poten_learn(word):
+    flag = 0
+    unlearned_word_txt = open("unlearned_word.txt", 'r')
+    for ul_word in unlearned_word_txt.readlines() :
+        if(ul_word.split("\n")[0] == word) :
+            flag = 1
+            break
+    unlearned_word_txt.close()
+
+    if (flag == 0) :
+        unlearned_word_txt = open("unlearned_word.txt", 'a')
+        unlearned_word_txt.write(word + "\n")
+        unlearned_word_txt.close()
+
 def main():
+    loading_word2vec_model()
     soundFilter = SoundFilter()
     soundFilter.start_record()
 
