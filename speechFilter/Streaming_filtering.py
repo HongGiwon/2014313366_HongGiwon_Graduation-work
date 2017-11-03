@@ -7,7 +7,8 @@ import sys
 import os
 import json
 import wave
-
+import threading
+import time
 
 from google.cloud import speech
 from google.cloud.speech import types
@@ -87,10 +88,40 @@ class MicStream(object):
                     break
             yield b''.join(data)
 
+class AudioFile:
+    chunk = 1024
+
+    def __init__(self, file):
+        """ Init audio stream """
+        self.wf = wave.open(file, 'rb')
+        self.p = pyaudio.PyAudio()
+        self.stream = self.p.open(
+            format = self.p.get_format_from_width(self.wf.getsampwidth()),
+            channels = self.wf.getnchannels(),
+            rate = self.wf.getframerate(),
+            output = True
+        )
+
+    def play(self):
+        """ Play entire file """
+        data = self.wf.readframes(self.chunk)
+        while data != '':
+            self.stream.write(data)
+            data = self.wf.readframes(self.chunk)
+
+        self.close()
+
+    def close(self):
+        """ Graceful shutdown """
+        self.stream.close()
+        self.p.terminate()
+
+
 class SoundFilter:
     def __init__(self):
         #self.__bad_word_dic = self.load_database()
         self.__beep_sound = AudioSegment.from_wav('./beep/censor-beep4.wav')
+        self.__start_time = time.time()
 
     def start_record(self):
         language_code = 'ko-KR'
@@ -106,6 +137,7 @@ class SoundFilter:
             # )],
         )
         streaming_config = types.StreamingRecognitionConfig(
+            interim_results=True,
             config=config)
 
         print ("#####녹음 시작######")
@@ -125,18 +157,41 @@ class SoundFilter:
         for response in responses:
             if not response.results:
                 continue
-            print(response)
+            #print(response)
             result = response.results[0]
             if not result.alternatives:
                 continue
             self.print_results(result)
+            self.print_results2(response.results)
+
+    def print_results2(self, results):
+
+        print("####################")
+        print("time: "+ str(time.time()-self.__start_time))
+        for result in results:
+            if result.is_final:
+                for candResult in result.alternatives:
+                    print('텍스트: ' + str(candResult.transcript))
+                    print('정확도: ' + str(candResult.confidence))
+                    for word_info in candResult.words:
+                        word = word_info.word
+                        start_time = word_info.start_time.seconds + word_info.start_time.nanos / 1000000000
+                        end_time = word_info.end_time.seconds + word_info.end_time.nanos / 1000000000
+                        print(' 단어: ' + word_info.word + ' / ' + str(
+                            word_info.start_time.seconds + word_info.start_time.nanos / 1000000000) + ' / ' + str(
+                            word_info.end_time.seconds + word_info.end_time.nanos / 1000000000))
+            else:
+                for candResult in result.alternatives:
+                    print('텍스트: ' + str(candResult.transcript))
+                print('정확도: ' + str(result.stability))
 
     def print_results(self, result):
         global bad_word_vec
         global model_words_vec
-        print("###########################################")
+        #print("###########################################")
         #    print(result)
         if result.is_final:
+            print("###########################################")
             speech_start_time = -1
             for candResult in result.alternatives:
                 print('텍스트: ' + str(candResult.transcript))
@@ -147,7 +202,7 @@ class SoundFilter:
 
                 for word_info in candResult.words:
                     word = word_info.word
-                    start_time =  word_info.start_time.seconds + word_info.start_time.nanos / 1000000000
+                    start_time = word_info.start_time.seconds + word_info.start_time.nanos / 1000000000
                     end_time = word_info.end_time.seconds + word_info.end_time.nanos / 1000000000
 
                     if speech_start_time is -1:
@@ -182,10 +237,10 @@ class SoundFilter:
 
             self.censor_audio(b_time_arr, b_word_arr, speech_start_time)
 
-        else:
-            for candResult in result.alternatives:
-                print('텍스트: ' + str(candResult.transcript))
-                print('정확도: ' + str(candResult.confidence))
+        #else:
+        #    for candResult in result.alternatives:
+        #        print('텍스트: ' + str(candResult.transcript))
+        #        print('정확도: ' + str(candResult.confidence))
 
     def censor_audio(self, c_time_list, c_word_arr, speech_start_time):
         audio_sound = AudioSegment.from_wav('./file.wav')
@@ -202,8 +257,13 @@ class SoundFilter:
             s2 = censored_result[intervals[index * 2 + 1] * 1000:]
             censored_result = s1 + sound_beep + s2
         censored_result[speech_start_time * 1000:].export("./output/change.wav", format="wav")
+
         #censored_result.export("./output/change.wav", format="wav")
-        playsound("./output/change.wav")
+        #playsound("./output/change.wav")
+
+        a = AudioFile("./output/change.wav")
+        th = threading.Thread(target=a.play, args=())
+        th.start()
         print("OK")
 
 bad_word_vec = []
