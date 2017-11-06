@@ -4,7 +4,7 @@ import pickle
 import gensim
 from sklearn.metrics.pairwise import cosine_similarity
 
-model = gensim.models.Word2Vec.load('model2')
+model = gensim.models.Word2Vec.load('model')
 
 #print(model.most_similar(positive=["서울/Noun", "일본/Noun"], negative=["한국/Noun"], topn=5))
 #model.wv.most_similar_cosmul
@@ -42,6 +42,7 @@ print(cosine_similarity([bad_word_vec], [model["시발/Noun"]]))
 
 
 print(model.similarity('ㅋㅋㅋ/KoreanParticle', '개웃/Adverb'))
+print(model.alpha)
 
 wvector = model.wv
 del model
@@ -63,3 +64,4 @@ try :
 
 except KeyError:
 	print ("학습이 안됬네")
+
