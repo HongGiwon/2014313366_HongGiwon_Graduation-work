@@ -40,7 +40,7 @@ global frames
 frames = []
 global paraSim, paraSent
 paraSim = 0.6 # 코사인 유사도 파라미터
-paraSent = 0.07 # 감정 분석 반열 파라미터
+paraSent = 0.07 # 감정 분석 반영 파라미터
 
 def flat(content):
     token_tmp = Twitter().pos(content)
